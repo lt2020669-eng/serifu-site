@@ -1,0 +1,1418 @@
+{
+  "id": "maedaya-fried-potato-usujio",
+  "title": "前田家 訳ありフライドポテトスナック うす塩",
+  "productName": "前田家 訳ありフライドポテトスナック うす塩",
+  "category": {
+    "industry": "food",
+    "industryLabel": "食品",
+    "subcategory": "snack",
+    "subcategoryLabel": "スナック菓子"
+  },
+  "scriptType": "full-script",
+  "tags": [
+    "訳あり",
+    "うす塩",
+    "スナック",
+    "じゃがいも"
+  ],
+  "image": "assets/images/maedaya-fried-potato-usujio.png",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "1．<ruby>商品基本情報<rt>しょうひんきほんじょうほう</rt></ruby>",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "<ruby>商品名<rt>しょうひんめい</rt></ruby>"
+        },
+        {
+          "type": "lead",
+          "text": "<ruby>前田家<rt>まえだや</rt></ruby>（まえだや） <ruby>訳<rt>わけ</rt></ruby>ありフライドポテトスナック うす<ruby>塩<rt>しお</rt></ruby>"
+        },
+        {
+          "type": "h3",
+          "text": "<ruby>商品<rt>しょうひん</rt></ruby>カテゴリー"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>袋<rt>ふくろ</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けてそのまま<ruby>食<rt>た</rt></ruby>べられる、スティックタイプのポテトスナックです。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>冷凍食品<rt>れいとうしょくひん</rt></ruby>のフライドポテトではないため、<ruby>油<rt>あぶら</rt></ruby>で<ruby>揚<rt>あ</rt></ruby>げたり、<ruby>電子<rt>でんし</rt></ruby>レンジで<ruby>温<rt>あたた</rt></ruby>めたりする<ruby>必要<rt>ひつよう</rt></ruby> はありません。"
+        },
+        {
+          "type": "h3",
+          "text": "<ruby>味<rt>あじ</rt></ruby>"
+        },
+        {
+          "type": "lead",
+          "text": "うす<ruby>塩味<rt>しおあじ</rt></ruby>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>塩味<rt>しおあじ</rt></ruby>を<ruby>強<rt>つよ</rt></ruby>くしすぎず、じゃがいもの<ruby>風味<rt>ふうみ</rt></ruby>を<ruby>感<rt>かん</rt></ruby>じやすい、シンプルで<ruby>食<rt>た</rt></ruby>べやすい<ruby>味付<rt>あじつ</rt></ruby>けで す。"
+        },
+        {
+          "type": "h3",
+          "text": "<ruby>内容量<rt>ないようりょう</rt></ruby>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>販売<rt>はんばい</rt></ruby>ページには、<ruby>主<rt>おも</rt></ruby>に<ruby>以下<rt>いか</rt></ruby>の<ruby>容量<rt>ようりょう</rt></ruby>が<ruby>表示<rt>ひょうじ</rt></ruby>されています。"
+        },
+        {
+          "type": "p",
+          "text": "• 250g"
+        },
+        {
+          "type": "p",
+          "text": "• 350g"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>配信中<rt>はいしんちゅう</rt></ruby>は、<ruby>実際<rt>じっさい</rt></ruby>に<ruby>手元<rt>てもと</rt></ruby>にある<ruby>商品<rt>しょうひん</rt></ruby>の<ruby>容量<rt>ようりょう</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>して<ruby>紹介<rt>しょうかい</rt></ruby>してください。 <ruby>今<rt>いま</rt></ruby>、<ruby>私<rt>わたし</rt></ruby>が<ruby>持<rt>も</rt></ruby>っているのは〇〇g<ruby>入<rt>はい</rt></ruby>りです。"
+        },
+        {
+          "type": "h3",
+          "text": "<ruby>販売価格<rt>はんばいかかく</rt></ruby>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>販売<rt>はんばい</rt></ruby>ページ<ruby>上<rt>うえ</rt></ruby>では、<ruby>容量<rt>ようりょう</rt></ruby>によって<ruby>以下<rt>いか</rt></ruby>の<ruby>価格帯<rt>かかくたい</rt></ruby>が<ruby>表示<rt>ひょうじ</rt></ruby>されています。 <strong>1,000</strong><strong><ruby>円<rt>えん</rt></ruby>～</strong><strong>1,180</strong><strong><ruby>円<rt>えん</rt></ruby>（<ruby>税込<rt>ぜいこみ</rt></ruby>） </strong>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>価格<rt>かかく</rt></ruby>は<ruby>販売時期<rt>はんばいじき</rt></ruby>やキャンペーンによって<ruby>変<rt>か</rt></ruby>わる<ruby>場合<rt>ばあい</rt></ruby>があります。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>最新<rt>さいしん</rt></ruby>の<ruby>販売価格<rt>はんばいかかく</rt></ruby>は、<ruby>画面下<rt>がめんした</rt></ruby>の<ruby>商品<rt>しょうひん</rt></ruby>ページからご<ruby>確認<rt>かくにん</rt></ruby>ください。"
+        },
+        {
+          "type": "h3",
+          "text": "クーポン"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>現在<rt>げんざい</rt></ruby>の<ruby>画面<rt>がめん</rt></ruby>には、"
+        },
+        {
+          "type": "lead",
+          "text": "2,500<ruby>円以上<rt>えんいじょう</rt></ruby>の<ruby>注文<rt>ちゅうもん</rt></ruby>で20％OFF"
+        },
+        {
+          "type": "p",
+          "text": "と<ruby>表示<rt>ひょうじ</rt></ruby>されています。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>今<rt>いま</rt></ruby>、2,500<ruby>円以上<rt>えんいじょう</rt></ruby>で20％OFFのクーポンが<ruby>表示<rt>ひょうじ</rt></ruby>されている<ruby>方<rt>かた</rt></ruby>は、<ruby>先<rt>さき</rt></ruby>にクーポンを<ruby>取得<rt>しゅとく</rt></ruby>してお いてください。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>対象商品<rt>たいしょうしょうひん</rt></ruby>や<ruby>利用条件<rt>りようじょうけん</rt></ruby>が<ruby>異<rt>こと</rt></ruby>なる<ruby>場合<rt>ばあい</rt></ruby>がありますので、<ruby>注文<rt>ちゅうもん</rt></ruby>を<ruby>確定<rt>かくてい</rt></ruby>する<ruby>前<rt>まえ</rt></ruby>に、カート<ruby>内<rt>うち</rt></ruby>の<ruby>割引<rt>わりびき</rt></ruby> <ruby>後<rt>ご</rt></ruby>の<ruby>金額<rt>きんがく</rt></ruby>をご<ruby>確認<rt>かくにん</rt></ruby>ください。"
+        },
+        {
+          "type": "p",
+          "text": "<strong>2</strong><strong>．<ruby>原産地<rt>げんさんち</rt></ruby></strong>・<strong><ruby>原材料<rt>げんざいりょう</rt></ruby></strong>・<strong>アレルギー<ruby>情報<rt>じょうほう</rt></ruby> </strong>"
+        },
+        {
+          "type": "h3",
+          "text": "じゃがいもの<ruby>原産地<rt>げんさんち</rt></ruby>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>原材料<rt>げんざいりょう</rt></ruby>に<ruby>使用<rt>しよう</rt></ruby>されているじゃがいもの<ruby>原産地<rt>げんさんち</rt></ruby>は<strong><ruby>中国<rt>ちゅうごく</rt></ruby></strong>です。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>原材料<rt>げんざいりょう</rt></ruby>に<ruby>使用<rt>しよう</rt></ruby>されているじゃがいもの<ruby>原産地<rt>げんさんち</rt></ruby>は<ruby>中国<rt>ちゅうごく</rt></ruby>です。"
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>中国製<rt>ちゅうごくせい</rt></ruby>の<ruby>商品<rt>しょうひん</rt></ruby>です」と<ruby>断定<rt>だんてい</rt></ruby>するのではなく、じゃがいもの<ruby>原産地<rt>げんさんち</rt></ruby>として<ruby>案内<rt>あんない</rt></ruby>してくださ い。"
+        },
+        {
+          "type": "h3",
+          "text": "<ruby>主<rt>おも</rt></ruby>な<ruby>原材料<rt>げんざいりょう</rt></ruby>"
+        },
+        {
+          "type": "p",
+          "text": "じゃがいも、<ruby>植物油<rt>しょくぶつゆ</rt></ruby>、<ruby>食塩<rt>しょくえん</rt></ruby>、<ruby>酵母<rt>こうぼ</rt></ruby>エキス、<ruby>調味料<rt>ちょうみりょう</rt></ruby>、<ruby>酸化防止剤<rt>さんかぼうしざい</rt></ruby>などが<ruby>使用<rt>しよう</rt></ruby>されています。 <ruby>詳<rt>くわ</rt></ruby>しい<ruby>原材料<rt>げんざいりょう</rt></ruby>について<ruby>質問<rt>しつもん</rt></ruby>された<ruby>場合<rt>ばあい</rt></ruby>は、"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>詳<rt>くわ</rt></ruby>しい<ruby>原材料<rt>げんざいりょう</rt></ruby>は<ruby>商品<rt>しょうひん</rt></ruby>ページとパッケージに<ruby>記載<rt>きさい</rt></ruby>されていますので、ご<ruby>購入前<rt>こうにゅうまえ</rt></ruby>にご<ruby>確認<rt>かくにん</rt></ruby>くだ さい。"
+        },
+        {
+          "type": "p",
+          "text": "と<ruby>案内<rt>あんない</rt></ruby>します。"
+        },
+        {
+          "type": "h3",
+          "text": "アレルギー"
+        },
+        {
+          "type": "p",
+          "text": "アレルギーをお<ruby>持<rt>も</rt></ruby>ちの<ruby>方<rt>かた</rt></ruby>は、<ruby>商品<rt>しょうひん</rt></ruby>ページまたはパッケージのアレルギー<ruby>表示<rt>ひょうじ</rt></ruby>を<ruby>必<rt>かなら</rt></ruby>ずご<ruby>確認<rt>かくにん</rt></ruby> ください。"
+        },
+        {
+          "type": "p",
+          "text": "アレルギーについては、「<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です」と<ruby>断定<rt>だんてい</rt></ruby>しないでください。"
+        },
+        {
+          "type": "p",
+          "text": "<strong>3</strong><strong>．<ruby>賞味期限<rt>しょうみきげん</rt></ruby></strong>・<strong><ruby>保存方法<rt>ほぞんほうほう</rt></ruby> </strong>"
+        },
+        {
+          "type": "h3",
+          "text": "<ruby>賞味期限<rt>しょうみきげん</rt></ruby>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>賞味期限<rt>しょうみきげん</rt></ruby>は<ruby>商品<rt>しょうひん</rt></ruby>パッケージに<ruby>記載<rt>きさい</rt></ruby>されています。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>入荷時期<rt>にゅうかじき</rt></ruby>によって<ruby>異<rt>こと</rt></ruby>なる<ruby>場合<rt>ばあい</rt></ruby>がありますので、<ruby>商品到着後<rt>しょうひんとうちゃくご</rt></ruby>にパッケージをご<ruby>確認<rt>かくにん</rt></ruby>くださ い。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>具体的<rt>ぐたいてき</rt></ruby>な<ruby>期限<rt>きげん</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>できていない<ruby>場合<rt>ばあい</rt></ruby>は、"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>半年以上<rt>はんとしいじょう</rt></ruby>あります。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>一年持<rt>いちねんも</rt></ruby>ちます。"
+        },
+        {
+          "type": "p",
+          "text": "などとは<ruby>言<rt>い</rt></ruby>わないでください。"
+        },
+        {
+          "type": "h3",
+          "text": "<ruby>保存方法<rt>ほぞんほうほう</rt></ruby>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>直射日光<rt>ちょくしゃにっこう</rt></ruby>や<ruby>高温多湿<rt>こうおんたしつ</rt></ruby>を<ruby>避<rt>さ</rt></ruby>け、<ruby>涼<rt>すず</rt></ruby>しい<ruby>場所<rt>ばしょ</rt></ruby>で<ruby>保存<rt>ほぞん</rt></ruby>してください。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>開封後<rt>かいふうご</rt></ruby>は、"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>開封後<rt>かいふうご</rt></ruby>はチャックをしっかり<ruby>閉<rt>し</rt></ruby>めて、<ruby>湿気<rt>しっけ</rt></ruby>を<ruby>避<rt>さ</rt></ruby>け、なるべく<ruby>早<rt>はや</rt></ruby>めにお<ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>がりくださ い。"
+        },
+        {
+          "type": "p",
+          "text": "と<ruby>案内<rt>あんない</rt></ruby>します。"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "4．<ruby>配信開始直後<rt>はいしんかいしちょくご</rt></ruby>のオープニング",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "<ruby>最初<rt>さいしょ</rt></ruby>の15<ruby>秒<rt>びょう</rt></ruby>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>皆<rt>みな</rt></ruby>さん、<ruby>家<rt>いえ</rt></ruby>で<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>ている<ruby>時<rt>とき</rt></ruby>や、<ruby>仕事<rt>しごと</rt></ruby>が<ruby>終<rt>お</rt></ruby>わってお<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>む<ruby>時<rt>とき</rt></ruby>に、<ruby>何<rt>なに</rt></ruby>かちょっと<ruby>食<rt>た</rt></ruby>べた くなることありませんか？"
+        },
+        {
+          "type": "p",
+          "text": "でも、わざわざ<ruby>油<rt>あぶら</rt></ruby>を<ruby>使<rt>つか</rt></ruby>ってポテトを<ruby>揚<rt>あ</rt></ruby>げたり、おつまみを<ruby>作<rt>つく</rt></ruby>ったりするのは<ruby>面倒<rt>めんどう</rt></ruby>ですよ ね。"
+        },
+        {
+          "type": "p",
+          "text": "そんな<ruby>時<rt>とき</rt></ruby>に、<ruby>袋<rt>ふくろ</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けてすぐ<ruby>食<rt>た</rt></ruby>べられるのが、<ruby>今日<rt>きょう</rt></ruby>ご<ruby>紹介<rt>しょうかい</rt></ruby>するこちらです。 <ruby>商品<rt>しょうひん</rt></ruby>をカメラに<ruby>近<rt>ちか</rt></ruby>づけます。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>前田家<rt>まえだや</rt></ruby>の「<ruby>訳<rt>わけ</rt></ruby>ありフライドポテトスナック うす<ruby>塩<rt>しお</rt></ruby>」です。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>見<rt>み</rt></ruby>た<ruby>目<rt>め</rt></ruby>はフライドポテトのようですが、<ruby>冷凍食品<rt>れいとうしょくひん</rt></ruby>ではありません。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>温<rt>あたた</rt></ruby>めたり<ruby>揚<rt>あ</rt></ruby>げ<ruby>直<rt>なお</rt></ruby>したりせず、<ruby>袋<rt>ふくろ</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けてそのまま<ruby>食<rt>た</rt></ruby>べられるポテトスナックです。 <ruby>今日<rt>きょう</rt></ruby>は<ruby>実際<rt>じっさい</rt></ruby>に<ruby>中身<rt>なかみ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>して、<ruby>割<rt>わ</rt></ruby>れ<ruby>具合<rt>ぐあい</rt></ruby>、サイズ、<ruby>食感<rt>しょっかん</rt></ruby>、<ruby>音<rt>おと</rt></ruby>までしっかりお<ruby>見<rt>み</rt></ruby>せします。"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "5．<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>一言<rt>ひとこと</rt></ruby>で<ruby>分<rt>わ</rt></ruby>かりやすく<ruby>説明<rt>せつめい</rt></ruby>する",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "こちらは、フライドポテトのようなスティックタイプのスナックです。 <ruby>一般的<rt>いっぱんてき</rt></ruby>な<ruby>薄<rt>うす</rt></ruby>いポテトチップスとは<ruby>違<rt>ちが</rt></ruby>って、<ruby>少<rt>すこ</rt></ruby>し<ruby>厚<rt>あつ</rt></ruby>みがあります。"
+        },
+        {
+          "type": "p",
+          "text": "そのため、<ruby>噛<rt>か</rt></ruby>んだ<ruby>時<rt>とき</rt></ruby>にサクサクとした<ruby>食感<rt>しょっかん</rt></ruby>と、しっかりした<ruby>食<rt>た</rt></ruby>べ<ruby>応<rt>ごた</rt></ruby>えを<ruby>楽<rt>たの</rt></ruby>しめます。 <ruby>味<rt>あじ</rt></ruby>は<ruby>定番<rt>ていばん</rt></ruby>のうす<ruby>塩味<rt>しおあじ</rt></ruby>です。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>味付<rt>あじつ</rt></ruby>けが<ruby>濃<rt>こ</rt></ruby>すぎないので、おやつとしても、お<ruby>酒<rt>さけ</rt></ruby>のおつまみとしても<ruby>合<rt>あ</rt></ruby>わせやすいと<ruby>思<rt>おも</rt></ruby>い ます。"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "title": "6．パッケージの<ruby>見<rt>み</rt></ruby>せ<ruby>方<rt>かた</rt></ruby>",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "<ruby>袋<rt>ふくろ</rt></ruby>をカメラに<ruby>近<rt>ちか</rt></ruby>づけます。"
+        },
+        {
+          "type": "p",
+          "text": "こちらが<ruby>実際<rt>じっさい</rt></ruby>の<ruby>商品<rt>しょうひん</rt></ruby>です。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>手<rt>て</rt></ruby>と<ruby>比<rt>くら</rt></ruby>べていただくと、<ruby>袋<rt>ふくろ</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きさはこのくらいです。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>今<rt>いま</rt></ruby>、<ruby>私<rt>わたし</rt></ruby>が<ruby>持<rt>も</rt></ruby>っているのは〇〇g<ruby>入<rt>はい</rt></ruby>りです。"
+        },
+        {
+          "type": "p",
+          "text": "チャック<ruby>部分<rt>ぶぶん</rt></ruby>を<ruby>見<rt>み</rt></ruby>せます。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>袋<rt>ふくろ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>にはチャックが<ruby>付<rt>つ</rt></ruby>いています。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>大容量<rt>だいようりょう</rt></ruby>ですが、<ruby>一度<rt>いちど</rt></ruby>に<ruby>全部食<rt>ぜんぶた</rt></ruby>べ<ruby>切<rt>き</rt></ruby>る<ruby>必要<rt>ひつよう</rt></ruby>はありません。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>今日少<rt>きょうすこ</rt></ruby>し<ruby>食<rt>た</rt></ruby>べて、<ruby>残<rt>のこ</rt></ruby>りは<ruby>週末<rt>しゅうまつ</rt></ruby>の<ruby>映画<rt>えいが</rt></ruby>や<ruby>晩酌用<rt>ばんしゃくよう</rt></ruby>に<ruby>取<rt>と</rt></ruby>っておくこともできます。 <ruby>食<rt>た</rt></ruby>べたい<ruby>分<rt>ぶん</rt></ruby>だけお<ruby>皿<rt>さら</rt></ruby>に<ruby>出<rt>だ</rt></ruby>して、<ruby>残<rt>のこ</rt></ruby>りはチャックを<ruby>閉<rt>し</rt></ruby>めて<ruby>保存<rt>ほぞん</rt></ruby>できます。"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "title": "7．「<ruby>訳<rt>わけ</rt></ruby>あり」の<ruby>詳<rt>くわ</rt></ruby>しい<ruby>説明<rt>せつめい</rt></ruby>",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>出<rt>だ</rt></ruby>します。"
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>訳<rt>わけ</rt></ruby>ありって、<ruby>何<rt>なに</rt></ruby>が<ruby>訳<rt>わけ</rt></ruby>ありなの？」と<ruby>思<rt>おも</rt></ruby>った<ruby>方<rt>かた</rt></ruby>も<ruby>多<rt>おお</rt></ruby>いですよね。"
+        },
+        {
+          "type": "p",
+          "text": "こちらは、<ruby>製造工程<rt>せいぞうこうてい</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>折<rt>お</rt></ruby>れてしまったものや、<ruby>長<rt>なが</rt></ruby>さが<ruby>揃<rt>そろ</rt></ruby>っていないもの、<ruby>少<rt>すこ</rt></ruby>し<ruby>欠<rt>か</rt></ruby>けて いるものなどが<ruby>入<rt>はい</rt></ruby>っています。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>長<rt>なが</rt></ruby>いものと<ruby>短<rt>みじか</rt></ruby>いものを<ruby>並<rt>なら</rt></ruby>べます。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>実際<rt>じっさい</rt></ruby>に<ruby>見<rt>み</rt></ruby>ると、このように<ruby>長<rt>なが</rt></ruby>いものもあれば、<ruby>短<rt>みじか</rt></ruby>いものもあります。 <ruby>一本一本<rt>いっぽんいっぽん</rt></ruby>、すべて<ruby>同<rt>おな</rt></ruby>じ<ruby>形<rt>かたち</rt></ruby>ではありません。"
+        },
+        {
+          "type": "p",
+          "text": "ただ、<ruby>味<rt>あじ</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>い<ruby>商品<rt>しょうひん</rt></ruby>や、<ruby>賞味期限<rt>しょうみきげん</rt></ruby>が<ruby>近<rt>ちか</rt></ruby>いから<ruby>訳<rt>わけ</rt></ruby>ありという<ruby>意味<rt>いみ</rt></ruby>ではありません。 <ruby>主<rt>おも</rt></ruby>に<ruby>形<rt>かたち</rt></ruby>や<ruby>長<rt>なが</rt></ruby>さが<ruby>不揃<rt>ふぞろ</rt></ruby>いなため、<ruby>訳<rt>わけ</rt></ruby>あり<ruby>商品<rt>しょうひん</rt></ruby>として<ruby>販売<rt>はんばい</rt></ruby>されています。"
+        },
+        {
+          "type": "h3",
+          "text": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>視聴者<rt>しちょうしゃ</rt></ruby>に<ruby>信頼<rt>しんらい</rt></ruby>されやすい<ruby>説明<rt>せつめい</rt></ruby>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>正直<rt>しょうじき</rt></ruby>にお<ruby>伝<rt>つた</rt></ruby>えすると、<ruby>一本一本<rt>いっぽんいっぽん</rt></ruby>きれいな<ruby>形<rt>かたち</rt></ruby>の<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>求<rt>もと</rt></ruby>めている<ruby>方<rt>かた</rt></ruby>や、<ruby>正式<rt>せいしき</rt></ruby>な<ruby>贈答用<rt>ぞうとうよう</rt></ruby>として <ruby>探<rt>さが</rt></ruby>している<ruby>方<rt>かた</rt></ruby>には、あまり<ruby>向<rt>む</rt></ruby>いていないと<ruby>思<rt>おも</rt></ruby>います。"
+        },
+        {
+          "type": "p",
+          "text": "ただ、ご<ruby>自宅<rt>じたく</rt></ruby>で<ruby>食<rt>た</rt></ruby>べるのであれば、<ruby>形<rt>かたち</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>し<ruby>不揃<rt>ふぞろ</rt></ruby>いでも、<ruby>味<rt>あじ</rt></ruby>がおいしければ<ruby>気<rt>き</rt></ruby>にならない という<ruby>方<rt>かた</rt></ruby>も<ruby>多<rt>おお</rt></ruby>いですよね。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>見<rt>み</rt></ruby>た<ruby>目<rt>め</rt></ruby>よりも、<ruby>味<rt>あじ</rt></ruby>や<ruby>量<rt>りょう</rt></ruby>を<ruby>重視<rt>じゅうし</rt></ruby>したい<ruby>方<rt>かた</rt></ruby>に<ruby>向<rt>む</rt></ruby>いている<ruby>商品<rt>しょうひん</rt></ruby>です。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>短<rt>みじか</rt></ruby>いものは<ruby>一口<rt>ひとくち</rt></ruby>で<ruby>食<rt>た</rt></ruby>べやすいですし、サラダやアイスのトッピングに<ruby>使<rt>つか</rt></ruby>う<ruby>時<rt>とき</rt></ruby>にも<ruby>便利<rt>べんり</rt></ruby>で す。"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "title": "8．<ruby>実物<rt>じつぶつ</rt></ruby>を<ruby>見<rt>み</rt></ruby>せながら<ruby>食感<rt>しょっかん</rt></ruby>を<ruby>専門的<rt>せんもんてき</rt></ruby>に<ruby>説明<rt>せつめい</rt></ruby>す る",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "<ruby>一本持<rt>いっぽんも</rt></ruby>って、カメラに<ruby>近<rt>ちか</rt></ruby>づけます。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>近<rt>ちか</rt></ruby>くで<ruby>見<rt>み</rt></ruby>ると、<ruby>薄<rt>うす</rt></ruby>いポテトチップスとは<ruby>違<rt>ちが</rt></ruby>って、スティック<ruby>状<rt>じょう</rt></ruby>で<ruby>少<rt>すこ</rt></ruby>し<ruby>厚<rt>あつ</rt></ruby>みがあります。 <ruby>表面<rt>ひょうめん</rt></ruby>には<ruby>細<rt>こま</rt></ruby>かな<ruby>凹凸<rt>おうとつ</rt></ruby>があり、サクッとした<ruby>食感<rt>しょっかん</rt></ruby>が<ruby>楽<rt>たの</rt></ruby>しめる<ruby>形<rt>かたち</rt></ruby>になっています。 <ruby>手<rt>て</rt></ruby>で<ruby>折<rt>お</rt></ruby>ります。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>少<rt>すこ</rt></ruby>し<ruby>折<rt>お</rt></ruby>って、<ruby>中<rt>なか</rt></ruby>も<ruby>見<rt>み</rt></ruby>てみますね。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>中<rt>なか</rt></ruby>まで<ruby>軽<rt>かる</rt></ruby>い<ruby>質感<rt>しっかん</rt></ruby>になっています。"
+        },
+        {
+          "type": "p",
+          "text": "では、<ruby>実際<rt>じっさい</rt></ruby>に<ruby>音<rt>おと</rt></ruby>も<ruby>聞<rt>き</rt></ruby>いてください。"
+        },
+        {
+          "type": "p",
+          "text": "マイクの<ruby>近<rt>ちか</rt></ruby>くで<ruby>食<rt>た</rt></ruby>べます。"
+        },
+        {
+          "type": "p",
+          "text": "サクッ。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>今<rt>いま</rt></ruby>の<ruby>音<rt>おと</rt></ruby>、<ruby>聞<rt>き</rt></ruby>こえましたか？"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>最初<rt>さいしょ</rt></ruby>に<ruby>軽<rt>かる</rt></ruby>いサクサク<ruby>感<rt>かん</rt></ruby>があって、その<ruby>後<rt>あと</rt></ruby>にじゃがいもの<ruby>風味<rt>ふうみ</rt></ruby>が<ruby>広<rt>ひろ</rt></ruby>がります。 <ruby>個人的<rt>こじんてき</rt></ruby>には、<ruby>塩味<rt>しおあじ</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>すぎず、じゃがいもの<ruby>味<rt>あじ</rt></ruby>を<ruby>感<rt>かん</rt></ruby>じやすいと<ruby>思<rt>おも</rt></ruby>います。 <ruby>薄<rt>うす</rt></ruby>いチップスのようにパリパリというより、<ruby>少<rt>すこ</rt></ruby>し<ruby>厚<rt>あつ</rt></ruby>みのあるサクサクとした<ruby>食感<rt>しょっかん</rt></ruby>です。 <ruby>一<rt>ひと</rt></ruby>つが<ruby>重<rt>おも</rt></ruby>すぎないので、<ruby>一<rt>ひと</rt></ruby>つだけのつもりでも、ついもう<ruby>一<rt>ひと</rt></ruby>つ<ruby>手<rt>て</rt></ruby>が<ruby>伸<rt>の</rt></ruby>びるタイプですね。"
+        }
+      ]
+    },
+    {
+      "id": "s7",
+      "title": "9．<ruby>一般的<rt>いっぱんてき</rt></ruby>な<ruby>商品<rt>しょうひん</rt></ruby>との<ruby>違<rt>ちが</rt></ruby>い",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "<ruby>冷凍<rt>れいとう</rt></ruby>フライドポテトとの<ruby>違<rt>ちが</rt></ruby>い"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>冷凍<rt>れいとう</rt></ruby>のフライドポテトは、<ruby>油<rt>あぶら</rt></ruby>で<ruby>揚<rt>あ</rt></ruby>げたり、オーブンや<ruby>電子<rt>でんし</rt></ruby>レンジで<ruby>温<rt>あたた</rt></ruby>めたりする<ruby>必要<rt>ひつよう</rt></ruby>があ りますよね。"
+        },
+        {
+          "type": "p",
+          "text": "こちらはスナック<ruby>菓子<rt>かし</rt></ruby>なので、<ruby>袋<rt>ふくろ</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けてそのまま<ruby>食<rt>た</rt></ruby>べられます。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>油<rt>あぶら</rt></ruby>を<ruby>準備<rt>じゅんび</rt></ruby>する<ruby>必要<rt>ひつよう</rt></ruby>もありませんし、<ruby>調理後<rt>ちょうりご</rt></ruby>の<ruby>洗<rt>あら</rt></ruby>い<ruby>物<rt>もの</rt></ruby>もありません。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>夜<rt>よる</rt></ruby>に<ruby>少<rt>すこ</rt></ruby>し<ruby>食<rt>た</rt></ruby>べたい<ruby>時<rt>とき</rt></ruby>や、<ruby>急<rt>きゅう</rt></ruby>におつまみが<ruby>必要<rt>ひつよう</rt></ruby>になった<ruby>時<rt>とき</rt></ruby>にも<ruby>使<rt>つか</rt></ruby>いやすいです。 <strong><ruby>一般的<rt>いっぱんてき</rt></ruby>なポテトチップスとの<ruby>違<rt>ちが</rt></ruby>い </strong>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>一般的<rt>いっぱんてき</rt></ruby>なポテトチップスは<ruby>薄<rt>うす</rt></ruby>いものが<ruby>多<rt>おお</rt></ruby>いですが、こちらはスティック<ruby>状<rt>じょう</rt></ruby>です。 <ruby>少<rt>すこ</rt></ruby>し<ruby>厚<rt>あつ</rt></ruby>みがあるため、<ruby>噛<rt>か</rt></ruby>んだ<ruby>時<rt>とき</rt></ruby>のサクサク<ruby>感<rt>かん</rt></ruby>や<ruby>食<rt>た</rt></ruby>べ<ruby>応<rt>ごた</rt></ruby>えを<ruby>感<rt>かん</rt></ruby>じやすいです。 <strong><ruby>小袋<rt>こぶくろ</rt></ruby>のお<ruby>菓子<rt>かし</rt></ruby>との<ruby>違<rt>ちが</rt></ruby>い </strong>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>小<rt>ちい</rt></ruby>さい<ruby>袋<rt>ふくろ</rt></ruby>のお<ruby>菓子<rt>かし</rt></ruby>だと、<ruby>家族<rt>かぞく</rt></ruby>で<ruby>食<rt>た</rt></ruby>べた<ruby>時<rt>とき</rt></ruby>や、<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>ながら<ruby>食<rt>た</rt></ruby>べた<ruby>時<rt>とき</rt></ruby>に、すぐになくなっ てしまうことがありますよね。"
+        },
+        {
+          "type": "p",
+          "text": "こちらは250gと350gの<ruby>大容量<rt>だいようりょう</rt></ruby>なので、<ruby>家族<rt>かぞく</rt></ruby>で<ruby>分<rt>わ</rt></ruby>けたり、<ruby>何回<rt>なんかい</rt></ruby>かに<ruby>分<rt>わ</rt></ruby>けたりして<ruby>食<rt>た</rt></ruby>べられま す。"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "title": "10．<ruby>生活<rt>せいかつ</rt></ruby>に<ruby>結<rt>むす</rt></ruby>びつけた<ruby>紹介<rt>しょうかい</rt></ruby>",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "<ruby>映画<rt>えいが</rt></ruby>やドラマを<ruby>見<rt>み</rt></ruby>る<ruby>時<rt>とき</rt></ruby>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>映画<rt>えいが</rt></ruby>やドラマを<ruby>見<rt>み</rt></ruby>る<ruby>時<rt>とき</rt></ruby>、<ruby>何<rt>なに</rt></ruby>か<ruby>少<rt>すこ</rt></ruby>しつまみたくなることありませんか？ ポップコーンもいいですが、<ruby>甘<rt>あま</rt></ruby>くないものを<ruby>食<rt>た</rt></ruby>べたい<ruby>時<rt>とき</rt></ruby>もありますよね。"
+        },
+        {
+          "type": "p",
+          "text": "こちらを<ruby>大<rt>おお</rt></ruby>きめのお<ruby>皿<rt>さら</rt></ruby>に<ruby>出<rt>だ</rt></ruby>して、<ruby>炭酸飲料<rt>たんさんいんりょう</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にテーブルに<ruby>置<rt>お</rt></ruby>いておけば、<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>な がら<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>食<rt>た</rt></ruby>べられます。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>袋<rt>ふくろ</rt></ruby>から<ruby>直接食<rt>ちょくせつた</rt></ruby>べると、どのくらい<ruby>食<rt>た</rt></ruby>べたか<ruby>分<rt>わ</rt></ruby>かりにくいので、<ruby>最初<rt>さいしょ</rt></ruby>に<ruby>食<rt>た</rt></ruby>べる<ruby>分<rt>ぶん</rt></ruby>だけお<ruby>皿<rt>さら</rt></ruby>に <ruby>出<rt>だ</rt></ruby>しておくのがおすすめです。"
+        },
+        {
+          "type": "h3",
+          "text": "<ruby>晩酌<rt>ばんしゃく</rt></ruby>する<ruby>時<rt>とき</rt></ruby>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>仕事<rt>しごと</rt></ruby>が<ruby>終<rt>お</rt></ruby>わって、ビールやハイボールを<ruby>飲<rt>の</rt></ruby>みたい<ruby>時<rt>とき</rt></ruby>にも<ruby>合<rt>あ</rt></ruby>わせやすいです。 おつまみを<ruby>作<rt>つく</rt></ruby>るのは<ruby>面倒<rt>めんどう</rt></ruby>だけど、<ruby>何<rt>なに</rt></ruby>か<ruby>少<rt>すこ</rt></ruby>し<ruby>食<rt>た</rt></ruby>べたいという<ruby>日<rt>ひ</rt></ruby>もありますよね。 <ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>から<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>を<ruby>出<rt>だ</rt></ruby>して、こちらをお<ruby>皿<rt>さら</rt></ruby>に<ruby>出<rt>だ</rt></ruby>すだけで、すぐに<ruby>晩酌<rt>ばんしゃく</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>められます。 うす<ruby>塩味<rt>しおあじ</rt></ruby>なので、<ruby>濃<rt>こ</rt></ruby>い<ruby>味<rt>あじ</rt></ruby>のおつまみに<ruby>比<rt>くら</rt></ruby>べて、お<ruby>酒<rt>さけ</rt></ruby>の<ruby>味<rt>あじ</rt></ruby>を<ruby>邪魔<rt>じゃま</rt></ruby>しにくいと<ruby>思<rt>おも</rt></ruby>います。 <strong><ruby>在宅勤務<rt>ざいたくきんむ</rt></ruby>や<ruby>家事<rt>かじ</rt></ruby>の<ruby>休憩<rt>きゅうけい</rt></ruby> </strong>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>在宅勤務中<rt>ざいたくきんむちゅう</rt></ruby>や<ruby>家事<rt>かじ</rt></ruby>の<ruby>合間<rt>あいま</rt></ruby>に、<ruby>甘<rt>あま</rt></ruby>いお<ruby>菓子<rt>かし</rt></ruby>ではなく、<ruby>塩気<rt>しおけ</rt></ruby>のあるものを<ruby>少<rt>すこ</rt></ruby>し<ruby>食<rt>た</rt></ruby>べたい<ruby>時<rt>とき</rt></ruby>にも <ruby>便利<rt>べんり</rt></ruby>です。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>小<rt>ちい</rt></ruby>さなお<ruby>皿<rt>さら</rt></ruby>に<ruby>数本<rt>すうほん</rt></ruby>だけ<ruby>出<rt>だ</rt></ruby>して、コーヒーやお<ruby>茶<rt>ちゃ</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>休憩<rt>きゅうけい</rt></ruby>するのもいいですね。 <strong><ruby>家族<rt>かぞく</rt></ruby>で<ruby>食<rt>た</rt></ruby>べる<ruby>時<rt>とき</rt></ruby> </strong>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>小<rt>ちい</rt></ruby>さいお<ruby>菓子<rt>かし</rt></ruby>だと、<ruby>家族<rt>かぞく</rt></ruby>で<ruby>食<rt>た</rt></ruby>べたらすぐになくなってしまうことがあります。 こちらは<ruby>大容量<rt>だいようりょう</rt></ruby>なので、<ruby>休日<rt>きゅうじつ</rt></ruby>のおやつとして、<ruby>家族<rt>かぞく</rt></ruby>で<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>楽<rt>たの</rt></ruby>しめます。 チャック<ruby>付<rt>つ</rt></ruby>きなので、<ruby>一回<rt>いっかい</rt></ruby>で<ruby>食<rt>た</rt></ruby>べ<ruby>切<rt>き</rt></ruby>れなくても<ruby>保存<rt>ほぞん</rt></ruby>しやすいです。"
+        },
+        {
+          "type": "h3",
+          "text": "<ruby>来客時<rt>らいきゃくじ</rt></ruby>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>急<rt>きゅう</rt></ruby>に<ruby>友人<rt>ゆうじん</rt></ruby>が<ruby>遊<rt>あそ</rt></ruby>びに<ruby>来<rt>き</rt></ruby>た<ruby>時<rt>とき</rt></ruby>も、<ruby>袋<rt>ふくろ</rt></ruby>からお<ruby>皿<rt>さら</rt></ruby>に<ruby>出<rt>だ</rt></ruby>すだけで<ruby>簡単<rt>かんたん</rt></ruby>に<ruby>一品用意<rt>いっぴんようい</rt></ruby>できます。"
+        },
+        {
+          "type": "p",
+          "text": "ケチャップ、マヨネーズ、チーズソースなどを<ruby>横<rt>よこ</rt></ruby>に<ruby>置<rt>お</rt></ruby>けば、<ruby>簡単<rt>かんたん</rt></ruby>なおつまみプレートにな ります。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>手<rt>て</rt></ruby>の<ruby>込<rt>こ</rt></ruby>んだ<ruby>料理<rt>りょうり</rt></ruby>を<ruby>用意<rt>ようい</rt></ruby>しなくても、<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>出<rt>だ</rt></ruby>しやすい<ruby>商品<rt>しょうひん</rt></ruby>です。 <strong>ピクニックやキャンプ </strong>"
+        },
+        {
+          "type": "p",
+          "text": "チャック<ruby>付<rt>つ</rt></ruby>きなので、ピクニックやキャンプなど、<ruby>外<rt>そと</rt></ruby>に<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>く<ruby>時<rt>とき</rt></ruby>にも<ruby>便利<rt>べんり</rt></ruby>です。 <ruby>外<rt>そと</rt></ruby>で<ruby>油<rt>あぶら</rt></ruby>を<ruby>使<rt>つか</rt></ruby>ってポテトを<ruby>揚<rt>あ</rt></ruby>げるのは<ruby>大変<rt>たいへん</rt></ruby>ですが、こちらは<ruby>袋<rt>ふくろ</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けるだけです。 <ruby>小<rt>ちい</rt></ruby>さな<ruby>保存袋<rt>ほぞんぶくろ</rt></ruby>や<ruby>容器<rt>ようき</rt></ruby>に<ruby>分<rt>わ</rt></ruby>けて<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>くのもおすすめです。"
+        },
+        {
+          "type": "h3",
+          "text": "<ruby>夜食<rt>やしょく</rt></ruby>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>夜<rt>よる</rt></ruby>に<ruby>少<rt>すこ</rt></ruby>しお<ruby>腹<rt>はら</rt></ruby>が<ruby>空<rt>す</rt></ruby>いたけど、<ruby>料理<rt>りょうり</rt></ruby>をするほどではない<ruby>時<rt>とき</rt></ruby>にも<ruby>便利<rt>べんり</rt></ruby>です。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>袋<rt>ふくろ</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けて、<ruby>食<rt>た</rt></ruby>べる<ruby>分<rt>ぶん</rt></ruby>だけお<ruby>皿<rt>さら</rt></ruby>に<ruby>出<rt>だ</rt></ruby>せます。"
+        },
+        {
+          "type": "p",
+          "text": "ただし、つい<ruby>手<rt>て</rt></ruby>が<ruby>伸<rt>の</rt></ruby>びやすいので、<ruby>最初<rt>さいしょ</rt></ruby>に<ruby>食<rt>た</rt></ruby>べる<ruby>量<rt>りょう</rt></ruby>を<ruby>決<rt>き</rt></ruby>めておくのがおすすめです。 <strong>11</strong><strong>．アレンジ<ruby>方法<rt>ほうほう</rt></ruby> </strong>"
+        },
+        {
+          "type": "h3",
+          "text": "そのまま<ruby>食<rt>た</rt></ruby>べる"
+        },
+        {
+          "type": "p",
+          "text": "まずは、そのまま<ruby>食<rt>た</rt></ruby>べて、うす<ruby>塩味<rt>しおあじ</rt></ruby>とサクサクした<ruby>食感<rt>しょっかん</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しんでください。 <strong>サラダのトッピング </strong>"
+        },
+        {
+          "type": "p",
+          "text": "ポテトを<ruby>少<rt>すこ</rt></ruby>し<ruby>砕<rt>くだ</rt></ruby>いて、サラダにのせます。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>少<rt>すこ</rt></ruby>し<ruby>砕<rt>くだ</rt></ruby>いてサラダの<ruby>上<rt>うえ</rt></ruby>にのせると、クルトンのようなサクサク<ruby>感<rt>かん</rt></ruby>をプラスできます。 <ruby>野菜<rt>やさい</rt></ruby>だけでは<ruby>少<rt>すこ</rt></ruby>し<ruby>物足<rt>ものた</rt></ruby>りない<ruby>時<rt>とき</rt></ruby>に、<ruby>食感<rt>しょっかん</rt></ruby>のアクセントになります。"
+        },
+        {
+          "type": "h3",
+          "text": "バニラアイスと<ruby>合<rt>あ</rt></ruby>わせる"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>甘<rt>あま</rt></ruby>いものと<ruby>塩味<rt>しおあじ</rt></ruby>の<ruby>組<rt>く</rt></ruby>み<ruby>合<rt>あ</rt></ruby>わせが<ruby>好<rt>す</rt></ruby>きな<ruby>方<rt>かた</rt></ruby>は、バニラアイスと<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>食<rt>た</rt></ruby>べてみてください。 バニラアイスの<ruby>甘<rt>あま</rt></ruby>さとポテトの<ruby>塩気<rt>しおけ</rt></ruby>で、<ruby>甘<rt>あま</rt></ruby>じょっぱい<ruby>味<rt>あじ</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しめます。 <strong>ディップソース </strong>"
+        },
+        {
+          "type": "p",
+          "text": "ケチャップ、マヨネーズ、チーズソースなどを<ruby>少<rt>すこ</rt></ruby>し<ruby>付<rt>つ</rt></ruby>けて<ruby>食<rt>た</rt></ruby>べるのもおすすめです。 ソースを<ruby>変<rt>か</rt></ruby>えながら<ruby>食<rt>た</rt></ruby>べると、<ruby>同<rt>おな</rt></ruby>じうす<ruby>塩味<rt>しおあじ</rt></ruby>でも<ruby>違<rt>ちが</rt></ruby>った<ruby>楽<rt>たの</rt></ruby>しみ<ruby>方<rt>かた</rt></ruby>ができます。 <strong>おつまみプレート </strong>"
+        },
+        {
+          "type": "p",
+          "text": "ナッツ、チーズ、<ruby>生<rt>なま</rt></ruby>ハムなどと<ruby>一緒<rt>いっしょ</rt></ruby>にお<ruby>皿<rt>さら</rt></ruby>に<ruby>盛<rt>も</rt></ruby>り<ruby>付<rt>つ</rt></ruby>けると、<ruby>簡単<rt>かんたん</rt></ruby>なおつまみプレートにな ります。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>急<rt>きゅう</rt></ruby>な<ruby>来客時<rt>らいきゃくじ</rt></ruby>や、<ruby>家<rt>いえ</rt></ruby>でゆっくりお<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みたい<ruby>時<rt>とき</rt></ruby>にも<ruby>使<rt>つか</rt></ruby>いやすいです。 <strong>12</strong><strong>．どんな<ruby>方<rt>かた</rt></ruby>に<ruby>向<rt>む</rt></ruby>いているか </strong>"
+        },
+        {
+          "type": "p",
+          "text": "こちらの<ruby>商品<rt>しょうひん</rt></ruby>は、<ruby>次<rt>つぎ</rt></ruby>のような<ruby>方<rt>かた</rt></ruby>に<ruby>向<rt>む</rt></ruby>いています。"
+        },
+        {
+          "type": "p",
+          "text": "フライドポテト<ruby>系<rt>けい</rt></ruby>のお<ruby>菓子<rt>かし</rt></ruby>が<ruby>好<rt>す</rt></ruby>きな<ruby>方<rt>かた</rt></ruby>。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>濃<rt>こ</rt></ruby>い<ruby>味<rt>あじ</rt></ruby>よりも、<ruby>定番<rt>ていばん</rt></ruby>のうす<ruby>塩味<rt>しおあじ</rt></ruby>が<ruby>好<rt>す</rt></ruby>きな<ruby>方<rt>かた</rt></ruby>。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>映画<rt>えいが</rt></ruby>やドラマを<ruby>見<rt>み</rt></ruby>る<ruby>時<rt>とき</rt></ruby>のお<ruby>菓子<rt>かし</rt></ruby>を<ruby>探<rt>さが</rt></ruby>している<ruby>方<rt>かた</rt></ruby>。"
+        },
+        {
+          "type": "p",
+          "text": "ビールやハイボールのおつまみを<ruby>簡単<rt>かんたん</rt></ruby>に<ruby>用意<rt>ようい</rt></ruby>したい<ruby>方<rt>かた</rt></ruby>。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>一回<rt>いっかい</rt></ruby>で<ruby>食<rt>た</rt></ruby>べ<ruby>切<rt>き</rt></ruby>る<ruby>小袋<rt>こぶくろ</rt></ruby>ではなく、<ruby>何回<rt>なんかい</rt></ruby>かに<ruby>分<rt>わ</rt></ruby>けて<ruby>食<rt>た</rt></ruby>べられるお<ruby>菓子<rt>かし</rt></ruby>を<ruby>探<rt>さが</rt></ruby>している<ruby>方<rt>かた</rt></ruby>。 <ruby>家族<rt>かぞく</rt></ruby>でシェアできる<ruby>大容量<rt>だいようりょう</rt></ruby>のお<ruby>菓子<rt>かし</rt></ruby>を<ruby>探<rt>さが</rt></ruby>している<ruby>方<rt>かた</rt></ruby>。"
+        },
+        {
+          "type": "p",
+          "text": "そして、<ruby>形<rt>かたち</rt></ruby>が<ruby>不揃<rt>ふぞろ</rt></ruby>いでも、ご<ruby>自宅用<rt>じたくよう</rt></ruby>なら<ruby>気<rt>き</rt></ruby>にならないという<ruby>方<rt>かた</rt></ruby>です。 <strong><ruby>向<rt>む</rt></ruby>いていない<ruby>方<rt>かた</rt></ruby>も<ruby>正直<rt>しょうじき</rt></ruby>に<ruby>伝<rt>つた</rt></ruby>える </strong>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>反対<rt>はんたい</rt></ruby>に、<ruby>一本一本<rt>いっぽんいっぽん</rt></ruby>きれいな<ruby>形<rt>かたち</rt></ruby>の<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>求<rt>もと</rt></ruby>めている<ruby>方<rt>かた</rt></ruby>や、<ruby>正式<rt>せいしき</rt></ruby>な<ruby>贈<rt>おく</rt></ruby>り<ruby>物<rt>もの</rt></ruby>として<ruby>探<rt>さが</rt></ruby>している<ruby>方<rt>かた</rt></ruby> には、あまり<ruby>向<rt>む</rt></ruby>いていないと<ruby>思<rt>おも</rt></ruby>います。"
+        },
+        {
+          "type": "p",
+          "text": "こちらは、ご<ruby>自宅<rt>じたく</rt></ruby>で<ruby>気軽<rt>きがる</rt></ruby>にたっぷり<ruby>楽<rt>たの</rt></ruby>しみたい<ruby>方向<rt>ほうこう</rt></ruby>けの<ruby>商品<rt>しょうひん</rt></ruby>です。"
+        }
+      ]
+    },
+    {
+      "id": "s9",
+      "title": "13．なぜこのライブで<ruby>購入<rt>こうにゅう</rt></ruby>するのか <ruby>理由<rt>りゆう</rt></ruby>① <ruby>実際<rt>じっさい</rt></ruby>の<ruby>割<rt>わ</rt></ruby>れ<ruby>具合<rt>ぐあい</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>できる",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "<ruby>訳<rt>わけ</rt></ruby>あり<ruby>商品<rt>しょうひん</rt></ruby>は、<ruby>商品<rt>しょうひん</rt></ruby>ページの<ruby>写真<rt>しゃしん</rt></ruby>だけでは、<ruby>実際<rt>じっさい</rt></ruby>にどのくらい<ruby>割<rt>わ</rt></ruby>れているのか、<ruby>長<rt>なが</rt></ruby>さがど のくらい<ruby>違<rt>ちが</rt></ruby>うのか、<ruby>分<rt>わ</rt></ruby>かりにくいですよね。"
+        },
+        {
+          "type": "p",
+          "text": "このライブでは、<ruby>実際<rt>じっさい</rt></ruby>の<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>袋<rt>ふくろ</rt></ruby>から<ruby>出<rt>だ</rt></ruby>して、<ruby>長<rt>なが</rt></ruby>いもの、<ruby>短<rt>みじか</rt></ruby>いもの、<ruby>割<rt>わ</rt></ruby>れているものをそ のままお<ruby>見<rt>み</rt></ruby>せしています。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>商品<rt>しょうひん</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>して、<ruby>納得<rt>なっとく</rt></ruby>した<ruby>上<rt>うえ</rt></ruby>で<ruby>購入<rt>こうにゅう</rt></ruby>できるのが、ライブで<ruby>見<rt>み</rt></ruby>るメリットです。 <strong><ruby>理由<rt>りゆう</rt></ruby>② <ruby>実際<rt>じっさい</rt></ruby>のサイズを<ruby>確認<rt>かくにん</rt></ruby>できる </strong>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>写真<rt>しゃしん</rt></ruby>だけでは、<ruby>一本<rt>いっぽん</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きさや<ruby>袋<rt>ふくろ</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きさが<ruby>分<rt>わ</rt></ruby>かりにくい<ruby>場合<rt>ばあい</rt></ruby>があります。 <ruby>今<rt>いま</rt></ruby>、<ruby>手<rt>て</rt></ruby>やお<ruby>皿<rt>さら</rt></ruby>と<ruby>比<rt>くら</rt></ruby>べながら、<ruby>実際<rt>じっさい</rt></ruby>のサイズを<ruby>確認<rt>かくにん</rt></ruby>していただけます。 <strong><ruby>理由<rt>りゆう</rt></ruby>③ <ruby>食感<rt>しょっかん</rt></ruby>と<ruby>音<rt>おと</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>できる </strong>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>商品<rt>しょうひん</rt></ruby>ページの<ruby>写真<rt>しゃしん</rt></ruby>では、サクサク<ruby>感<rt>かん</rt></ruby>や<ruby>食<rt>た</rt></ruby>べた<ruby>時<rt>とき</rt></ruby>の<ruby>音<rt>おと</rt></ruby>までは<ruby>分<rt>わ</rt></ruby>かりません。 ライブでは、<ruby>実際<rt>じっさい</rt></ruby>に<ruby>食<rt>た</rt></ruby>べる<ruby>音<rt>おと</rt></ruby>や、<ruby>食感<rt>しょっかん</rt></ruby>の<ruby>印象<rt>いんしょう</rt></ruby>をその<ruby>場<rt>ば</rt></ruby>で<ruby>確認<rt>かくにん</rt></ruby>できます。"
+        },
+        {
+          "type": "h3",
+          "text": "<ruby>理由<rt>りゆう</rt></ruby>④ <ruby>気<rt>き</rt></ruby>になることをその<ruby>場<rt>ば</rt></ruby>で<ruby>質問<rt>しつもん</rt></ruby>できる"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>原産地<rt>げんさんち</rt></ruby>、<ruby>内容量<rt>ないようりょう</rt></ruby>、<ruby>味<rt>あじ</rt></ruby>、<ruby>割<rt>わ</rt></ruby>れ<ruby>具合<rt>ぐあい</rt></ruby>、<ruby>保存方法<rt>ほぞんほうほう</rt></ruby>など、<ruby>気<rt>き</rt></ruby>になることがあれば、<ruby>今<rt>いま</rt></ruby>コメントで<ruby>聞<rt>き</rt></ruby> いてください。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>商品<rt>しょうひん</rt></ruby>ページを<ruby>一人<rt>ひとり</rt></ruby>で<ruby>全部調<rt>ぜんぶしら</rt></ruby>べなくても、ライブ<ruby>中<rt>ちゅう</rt></ruby>に<ruby>確認<rt>かくにん</rt></ruby>できます。"
+        },
+        {
+          "type": "h3",
+          "text": "<ruby>理由<rt>りゆう</rt></ruby>⑤ <ruby>自分<rt>じぶん</rt></ruby>に<ruby>合<rt>あ</rt></ruby>う<ruby>容量<rt>ようりょう</rt></ruby>を<ruby>相談<rt>そうだん</rt></ruby>できる"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>一人<rt>ひとり</rt></ruby>で<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>食<rt>た</rt></ruby>べたいのか、ご<ruby>家族<rt>かぞく</rt></ruby>で<ruby>食<rt>た</rt></ruby>べたいのかによって、おすすめの<ruby>容量<rt>ようりょう</rt></ruby>が<ruby>変<rt>か</rt></ruby>わり ます。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>何人<rt>なんにん</rt></ruby>で<ruby>食<rt>た</rt></ruby>べる<ruby>予定<rt>よてい</rt></ruby>かコメントで<ruby>教<rt>おし</rt></ruby>えていただければ、250gと350gのどちらが<ruby>合<rt>あ</rt></ruby>いそうか<ruby>一<rt>ひと</rt></ruby> <ruby>緒<rt>しょ</rt></ruby>に<ruby>考<rt>かんが</rt></ruby>えます。"
+        },
+        {
+          "type": "h3",
+          "text": "<ruby>理由<rt>りゆう</rt></ruby>⑥ クーポンを<ruby>見落<rt>みお</rt></ruby>としにくい"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>商品<rt>しょうひん</rt></ruby>ページだけを<ruby>見<rt>み</rt></ruby>ていると、クーポンの<ruby>取得<rt>しゅとく</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れてしまうことがあります。"
+        },
+        {
+          "type": "p",
+          "text": "このライブでは、<ruby>購入前<rt>こうにゅうまえ</rt></ruby>にクーポンを<ruby>取得<rt>しゅとく</rt></ruby>したか、<ruby>割引<rt>わりびき</rt></ruby>が<ruby>適用<rt>てきよう</rt></ruby>されているかを<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>確認<rt>かくにん</rt></ruby> できます。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>注文<rt>ちゅうもん</rt></ruby>を<ruby>確定<rt>かくてい</rt></ruby>する<ruby>前<rt>まえ</rt></ruby>に、<ruby>必<rt>かなら</rt></ruby>ずカート<ruby>内<rt>うち</rt></ruby>の<ruby>最終金額<rt>さいしゅうきんがく</rt></ruby>をご<ruby>確認<rt>かくにん</rt></ruby>ください。"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "title": "14．<ruby>価格<rt>かかく</rt></ruby>とクーポンを<ruby>使<rt>つか</rt></ruby>った<ruby>説明<rt>せつめい</rt></ruby>",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "<ruby>現在<rt>げんざい</rt></ruby>の<ruby>表示価格<rt>ひょうじかかく</rt></ruby>が、"
+        },
+        {
+          "type": "p",
+          "text": "• 250g：1,000<ruby>円<rt>えん</rt></ruby>"
+        },
+        {
+          "type": "p",
+          "text": "• 350g：1,180<ruby>円<rt>えん</rt></ruby>"
+        },
+        {
+          "type": "p",
+          "text": "の<ruby>場合<rt>ばあい</rt></ruby>の<ruby>案内<rt>あんない</rt></ruby>です。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>現在<rt>げんざい</rt></ruby>、250gは1,000<ruby>円<rt>えん</rt></ruby>、350gは1,180<ruby>円<rt>えん</rt></ruby>で<ruby>表示<rt>ひょうじ</rt></ruby>されています。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>価格<rt>かかく</rt></ruby>は<ruby>変更<rt>へんこう</rt></ruby>になる<ruby>場合<rt>ばあい</rt></ruby>がありますので、<ruby>現在<rt>げんざい</rt></ruby>の<ruby>商品<rt>しょうひん</rt></ruby>ページをご<ruby>確認<rt>かくにん</rt></ruby>ください。"
+        },
+        {
+          "type": "p",
+          "text": "また、2,500<ruby>円以上<rt>えんいじょう</rt></ruby>で20％OFFのクーポンが<ruby>表示<rt>ひょうじ</rt></ruby>されている<ruby>方<rt>かた</rt></ruby>は、<ruby>合計金額<rt>ごうけいきんがく</rt></ruby>が<ruby>条件<rt>じょうけん</rt></ruby>を<ruby>満<rt>み</rt></ruby>たし ているか<ruby>確認<rt>かくにん</rt></ruby>してください。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>例<rt>たと</rt></ruby>えば、この<ruby>商品<rt>しょうひん</rt></ruby>だけでクーポン<ruby>条件<rt>じょうけん</rt></ruby>を<ruby>満<rt>み</rt></ruby>たしたい<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>現在<rt>げんざい</rt></ruby>の<ruby>価格<rt>かかく</rt></ruby>では3<ruby>袋<rt>ふくろ</rt></ruby>が<ruby>一<rt>ひと</rt></ruby>つの <ruby>目安<rt>めやす</rt></ruby>になります。"
+        },
+        {
+          "type": "p",
+          "text": "ただし、いきなり3<ruby>袋<rt>ふくろ</rt></ruby>は<ruby>多<rt>おお</rt></ruby>いという<ruby>方<rt>かた</rt></ruby>は、この<ruby>商品<rt>しょうひん</rt></ruby>と、ほかに<ruby>気<rt>き</rt></ruby>になっている<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>組<rt>く</rt></ruby>み <ruby>合<rt>あ</rt></ruby>わせて、<ruby>合計<rt>ごうけい</rt></ruby>2,500<ruby>円以上<rt>えんいじょう</rt></ruby>にする<ruby>方法<rt>ほうほう</rt></ruby>もあります。"
+        },
+        {
+          "type": "p",
+          "text": "クーポンの<ruby>対象商品<rt>たいしょうしょうひん</rt></ruby>、<ruby>割引上限<rt>わりびきじょうげん</rt></ruby>、<ruby>利用条件<rt>りようじょうけん</rt></ruby>が<ruby>異<rt>こと</rt></ruby>なる<ruby>場合<rt>ばあい</rt></ruby>がありますので、<ruby>最終的<rt>さいしゅうてき</rt></ruby>な<ruby>金額<rt>きんがく</rt></ruby>は <ruby>注文確認画面<rt>ちゅうもんかくにんがめん</rt></ruby>をご<ruby>確認<rt>かくにん</rt></ruby>ください。"
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "title": "15．<ruby>自然<rt>しぜん</rt></ruby>な<ruby>購入促進<rt>こうにゅうそくしん</rt></ruby>トーク",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>一押<rt>ひとお</rt></ruby>し"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>気<rt>き</rt></ruby>になっている<ruby>方<rt>かた</rt></ruby>は、すぐに<ruby>注文<rt>ちゅうもん</rt></ruby>を<ruby>確定<rt>かくてい</rt></ruby>しなくても<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です。"
+        },
+        {
+          "type": "p",
+          "text": "まず<ruby>商品<rt>しょうひん</rt></ruby>をカートに<ruby>入<rt>はい</rt></ruby>れて、<ruby>容量<rt>ようりょう</rt></ruby>とクーポン<ruby>適用後<rt>てきようご</rt></ruby>の<ruby>金額<rt>きんがく</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>してみてください。 カートに<ruby>入<rt>はい</rt></ruby>れただけでは<ruby>注文確定<rt>ちゅうもんかくてい</rt></ruby>にはなりません。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>最終金額<rt>さいしゅうきんがく</rt></ruby>を<ruby>見<rt>み</rt></ruby>てから、<ruby>購入<rt>こうにゅう</rt></ruby>するかどうか<ruby>決<rt>き</rt></ruby>めていただけます。"
+        },
+        {
+          "type": "h3",
+          "text": "<ruby>初<rt>はじ</rt></ruby>めて<ruby>購入<rt>こうにゅう</rt></ruby>する<ruby>方<rt>ほう</rt></ruby>へ"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>初<rt>はじ</rt></ruby>めてで<ruby>味<rt>あじ</rt></ruby>が<ruby>合<rt>あ</rt></ruby>うか<ruby>心配<rt>しんぱい</rt></ruby>な<ruby>方<rt>かた</rt></ruby>は、まず1<ruby>袋<rt>ふくろ</rt></ruby>から<ruby>試<rt>ため</rt></ruby>してみるのもいいと<ruby>思<rt>おも</rt></ruby>います。"
+        },
+        {
+          "type": "p",
+          "text": "クーポンを<ruby>使<rt>つか</rt></ruby>いたい<ruby>方<rt>かた</rt></ruby>は、ほかの<ruby>商品<rt>しょうひん</rt></ruby>と<ruby>組<rt>く</rt></ruby>み<ruby>合<rt>あ</rt></ruby>わせた<ruby>場合<rt>ばあい</rt></ruby>の<ruby>合計金額<rt>ごうけいきんがく</rt></ruby>をカートで<ruby>確認<rt>かくにん</rt></ruby>して みてください。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>無理<rt>むり</rt></ruby>にたくさん<ruby>購入<rt>こうにゅう</rt></ruby>するのではなく、ご<ruby>自身<rt>じしん</rt></ruby>が<ruby>食<rt>た</rt></ruby>べ<ruby>切<rt>き</rt></ruby>れる<ruby>量<rt>りょう</rt></ruby>で<ruby>選<rt>えら</rt></ruby>んでください。 <strong><ruby>家族<rt>かぞく</rt></ruby>で<ruby>食<rt>た</rt></ruby>べる<ruby>方<rt>ほう</rt></ruby>へ </strong>"
+        },
+        {
+          "type": "p",
+          "text": "ご<ruby>家族<rt>かぞく</rt></ruby>で<ruby>食<rt>た</rt></ruby>べる<ruby>予定<rt>よてい</rt></ruby>の<ruby>方<rt>かた</rt></ruby>は、250gだと<ruby>意外<rt>いがい</rt></ruby>と<ruby>早<rt>はや</rt></ruby>くなくなる<ruby>可能性<rt>かのうせい</rt></ruby>があります。 <ruby>休日<rt>きゅうじつ</rt></ruby>のおやつや<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>る<ruby>時<rt>とき</rt></ruby>にも<ruby>使<rt>つか</rt></ruby>いたい<ruby>方<rt>かた</rt></ruby>は、350gも<ruby>確認<rt>かくにん</rt></ruby>してみてください。 <strong><ruby>晩酌用<rt>ばんしゃくよう</rt></ruby>に<ruby>購入<rt>こうにゅう</rt></ruby>する<ruby>方<rt>ほう</rt></ruby>へ </strong>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>普段<rt>ふだん</rt></ruby>から<ruby>家<rt>いえ</rt></ruby>でビールやハイボールを<ruby>飲<rt>の</rt></ruby>む<ruby>方<rt>かた</rt></ruby>は、<ruby>一袋置<rt>ひとふくろお</rt></ruby>いておくと、おつまみを<ruby>買<rt>か</rt></ruby>い<ruby>忘<rt>わす</rt></ruby>れた <ruby>日<rt>ひ</rt></ruby>にも<ruby>便利<rt>べんり</rt></ruby>です。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>に<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>はあるけど、おつまみがないという<ruby>時<rt>とき</rt></ruby>に、<ruby>袋<rt>ふくろ</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けてすぐ<ruby>食<rt>た</rt></ruby>べられます。 <strong>ストック<ruby>用<rt>よう</rt></ruby>として<ruby>購入<rt>こうにゅう</rt></ruby>する<ruby>方<rt>ほう</rt></ruby>へ </strong>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>家<rt>いえ</rt></ruby>にお<ruby>菓子<rt>かし</rt></ruby>をストックしておきたい<ruby>方<rt>かた</rt></ruby>にも<ruby>使<rt>つか</rt></ruby>いやすいです。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>来客時<rt>らいきゃくじ</rt></ruby>、<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>る<ruby>時<rt>とき</rt></ruby>、<ruby>家族<rt>かぞく</rt></ruby>のおやつ、<ruby>晩酌<rt>ばんしゃく</rt></ruby>など、いろいろな<ruby>場面<rt>ばめん</rt></ruby>で<ruby>使<rt>つか</rt></ruby>えます。 <ruby>届<rt>とど</rt></ruby>いた<ruby>後<rt>ご</rt></ruby>は<ruby>賞味期限<rt>しょうみきげん</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>して、<ruby>期限内<rt>きげんない</rt></ruby>に<ruby>食<rt>た</rt></ruby>べ<ruby>切<rt>き</rt></ruby>れる<ruby>量<rt>りょう</rt></ruby>を<ruby>選<rt>えら</rt></ruby>んでください。"
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "title": "16．「<ruby>今確認<rt>いまかくにん</rt></ruby>する<ruby>理由<rt>りゆう</rt></ruby>」の<ruby>作<rt>つく</rt></ruby>り<ruby>方<rt>かた</rt></ruby>",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "<ruby>在庫<rt>ざいこ</rt></ruby>や<ruby>終了時間<rt>しゅうりょうじかん</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>できていない<ruby>場合<rt>ばあい</rt></ruby>は、"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>残<rt>のこ</rt></ruby>りわずかです。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>今日<rt>きょう</rt></ruby>しか<ruby>買<rt>か</rt></ruby>えません。"
+        },
+        {
+          "type": "p",
+          "text": "あと5<ruby>分<rt>わ</rt></ruby>で<ruby>終了<rt>しゅうりょう</rt></ruby>です。"
+        },
+        {
+          "type": "p",
+          "text": "とは<ruby>言<rt>い</rt></ruby>わないでください。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>代<rt>か</rt></ruby>わりに、<ruby>次<rt>つぎ</rt></ruby>のように<ruby>案内<rt>あんない</rt></ruby>します。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>今<rt>いま</rt></ruby>このライブを<ruby>見<rt>み</rt></ruby>ている<ruby>間<rt>あいだ</rt></ruby>であれば、<ruby>実物<rt>じつぶつ</rt></ruby>を<ruby>見<rt>み</rt></ruby>ながら、<ruby>気<rt>き</rt></ruby>になることをその<ruby>場<rt>ば</rt></ruby>で<ruby>質問<rt>しつもん</rt></ruby>でき ます。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>商品<rt>しょうひん</rt></ruby>ページだけでは<ruby>分<rt>わ</rt></ruby>かりにくい<ruby>割<rt>わ</rt></ruby>れ<ruby>具合<rt>ぐあい</rt></ruby>、サイズ、<ruby>食感<rt>しょっかん</rt></ruby>を、<ruby>今確認<rt>いまかくにん</rt></ruby>できます。"
+        },
+        {
+          "type": "p",
+          "text": "クーポンが<ruby>表示<rt>ひょうじ</rt></ruby>されている<ruby>方<rt>かた</rt></ruby>は、<ruby>現在<rt>げんざい</rt></ruby>の<ruby>条件<rt>じょうけん</rt></ruby>でいくらになるか、<ruby>今<rt>いま</rt></ruby>カートで<ruby>確認<rt>かくにん</rt></ruby>できま す。"
+        },
+        {
+          "type": "p",
+          "text": "あとで<ruby>買<rt>か</rt></ruby>おうと<ruby>思<rt>おも</rt></ruby>うと、<ruby>商品<rt>しょうひん</rt></ruby>やクーポン<ruby>条件<rt>じょうけん</rt></ruby>をもう<ruby>一度調<rt>いちどしら</rt></ruby>べる<ruby>必要<rt>ひつよう</rt></ruby>があります。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>気<rt>き</rt></ruby>になっている<ruby>方<rt>かた</rt></ruby>は、<ruby>今<rt>いま</rt></ruby>のうちにカートに<ruby>入<rt>はい</rt></ruby>れて、<ruby>条件<rt>じょうけん</rt></ruby>だけ<ruby>確認<rt>かくにん</rt></ruby>しておくのがおすすめで す。"
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "title": "17．コメントを<ruby>購入<rt>こうにゅう</rt></ruby>につなげる<ruby>会話<rt>かいわ</rt></ruby> <ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>る<ruby>方<rt>ほう</rt></ruby>への<ruby>質問<rt>しつもん</rt></ruby>",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>映画<rt>えいが</rt></ruby>やドラマを<ruby>見<rt>み</rt></ruby>る<ruby>方<rt>かた</rt></ruby>、コメントで「<ruby>映画<rt>えいが</rt></ruby>」と<ruby>教<rt>おし</rt></ruby>えてください。 <ruby>視聴者<rt>しちょうしゃ</rt></ruby>が「<ruby>映画<rt>えいが</rt></ruby>」とコメントした<ruby>場合<rt>ばあい</rt></ruby>："
+        },
+        {
+          "type": "p",
+          "text": "<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>る<ruby>時<rt>とき</rt></ruby>に<ruby>食<rt>た</rt></ruby>べるなら、<ruby>炭酸飲料<rt>たんさんいんりょう</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に、お<ruby>皿<rt>さら</rt></ruby>に<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>出<rt>だ</rt></ruby>して<ruby>食<rt>た</rt></ruby>べるのがよさそ うですね。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>一人<rt>ひとり</rt></ruby>で<ruby>食<rt>た</rt></ruby>べるなら250g、ご<ruby>家族<rt>かぞく</rt></ruby>や<ruby>友人<rt>ゆうじん</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>なら350gも<ruby>確認<rt>かくにん</rt></ruby>してみてください。"
+        },
+        {
+          "type": "h3",
+          "text": "<ruby>晩酌<rt>ばんしゃく</rt></ruby>する<ruby>方<rt>ほう</rt></ruby>への<ruby>質問<rt>しつもん</rt></ruby>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>家<rt>いえ</rt></ruby>でビールやハイボールを<ruby>飲<rt>の</rt></ruby>む<ruby>方<rt>かた</rt></ruby>は、「<ruby>晩酌<rt>ばんしゃく</rt></ruby>」とコメントしてください。 コメントが<ruby>来<rt>き</rt></ruby>た<ruby>場合<rt>ばあい</rt></ruby>："
+        },
+        {
+          "type": "p",
+          "text": "<ruby>晩酌用<rt>ばんしゃくよう</rt></ruby>なら、うす<ruby>塩味<rt>しおあじ</rt></ruby>は<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせやすいと<ruby>思<rt>おも</rt></ruby>います。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>毎回<rt>まいかい</rt></ruby>おつまみを<ruby>作<rt>つく</rt></ruby>るのが<ruby>面倒<rt>めんどう</rt></ruby>な<ruby>方<rt>かた</rt></ruby>は、<ruby>家<rt>いえ</rt></ruby>に<ruby>一袋置<rt>ひとふくろお</rt></ruby>いておくと<ruby>便利<rt>べんり</rt></ruby>です。 <strong><ruby>家族<rt>かぞく</rt></ruby>で<ruby>食<rt>た</rt></ruby>べる<ruby>方<rt>ほう</rt></ruby>への<ruby>質問<rt>しつもん</rt></ruby> </strong>"
+        },
+        {
+          "type": "p",
+          "text": "ご<ruby>家族<rt>かぞく</rt></ruby>で<ruby>食<rt>た</rt></ruby>べる<ruby>予定<rt>よてい</rt></ruby>の<ruby>方<rt>かた</rt></ruby>は、<ruby>何人<rt>なんにん</rt></ruby>で<ruby>食<rt>た</rt></ruby>べるか<ruby>教<rt>おし</rt></ruby>えてください。"
+        },
+        {
+          "type": "p",
+          "text": "3<ruby>人<rt>ひと</rt></ruby>とコメントが<ruby>来<rt>き</rt></ruby>た<ruby>場合<rt>ばあい</rt></ruby>："
+        },
+        {
+          "type": "p",
+          "text": "3<ruby>人<rt>ひと</rt></ruby>で<ruby>食<rt>た</rt></ruby>べるなら、250gより350gの<ruby>方<rt>ほう</rt></ruby>が<ruby>余裕<rt>よゆう</rt></ruby>があると<ruby>思<rt>おも</rt></ruby>います。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>一度<rt>いちど</rt></ruby>に<ruby>全部食<rt>ぜんぶた</rt></ruby>べなくても、チャック<ruby>付<rt>つ</rt></ruby>きなので<ruby>何回<rt>なんかい</rt></ruby>かに<ruby>分<rt>わ</rt></ruby>けられます。 <strong><ruby>量<rt>りょう</rt></ruby>を<ruby>迷<rt>まよ</rt></ruby>っている<ruby>方<rt>ほう</rt></ruby>への<ruby>質問<rt>しつもん</rt></ruby> </strong>"
+        },
+        {
+          "type": "p",
+          "text": "250gと350g、どちらにするか<ruby>迷<rt>まよ</rt></ruby>っている<ruby>方<rt>かた</rt></ruby>は、<ruby>誰<rt>だれ</rt></ruby>と、どんな<ruby>時<rt>とき</rt></ruby>に<ruby>食<rt>た</rt></ruby>べる<ruby>予定<rt>よてい</rt></ruby>か<ruby>教<rt>おし</rt></ruby>えてくだ さい。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>食<rt>た</rt></ruby>べる<ruby>人数<rt>にんずう</rt></ruby>や<ruby>場面<rt>ばめん</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせて、<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>選<rt>えら</rt></ruby>びましょう。"
+        }
+      ]
+    },
+    {
+      "id": "s14",
+      "title": "18．<ruby>新<rt>あたら</rt></ruby>しく<ruby>入<rt>はい</rt></ruby>ってきた<ruby>視聴者向<rt>しちょうしゃむ</rt></ruby>けの1<ruby>分間<rt>ふんかん</rt></ruby> トーク",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "<ruby>今入<rt>いまはい</rt></ruby>ってきた<ruby>方<rt>かた</rt></ruby>、こちらは<ruby>前田家<rt>まえだや</rt></ruby>の「<ruby>訳<rt>わけ</rt></ruby>ありフライドポテトスナック うす<ruby>塩<rt>しお</rt></ruby>」です。 <ruby>見<rt>み</rt></ruby>た<ruby>目<rt>め</rt></ruby>はフライドポテトのようですが、<ruby>冷凍食品<rt>れいとうしょくひん</rt></ruby>ではありません。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>袋<rt>ふくろ</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けて、そのまま<ruby>食<rt>た</rt></ruby>べられるポテトスナックです。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>訳<rt>わけ</rt></ruby>ありの<ruby>理由<rt>りゆう</rt></ruby>は、<ruby>製造中<rt>せいぞうちゅう</rt></ruby>に<ruby>折<rt>お</rt></ruby>れてしまったものや、<ruby>長<rt>なが</rt></ruby>さ・<ruby>形<rt>かたち</rt></ruby>が<ruby>不揃<rt>ふぞろ</rt></ruby>いなものが<ruby>含<rt>ふく</rt></ruby>まれてい るためです。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>味<rt>あじ</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いという<ruby>意味<rt>いみ</rt></ruby>ではありません。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>実際<rt>じっさい</rt></ruby>に<ruby>見<rt>み</rt></ruby>ると、このように<ruby>長<rt>なが</rt></ruby>いものと<ruby>短<rt>みじか</rt></ruby>いものが<ruby>入<rt>はい</rt></ruby>っています。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>薄<rt>うす</rt></ruby>いポテトチップスとは<ruby>違<rt>ちが</rt></ruby>って、<ruby>少<rt>すこ</rt></ruby>し<ruby>厚<rt>あつ</rt></ruby>みがあるので、サクサクした<ruby>食感<rt>しょっかん</rt></ruby>と<ruby>食<rt>た</rt></ruby>べ<ruby>応<rt>ごた</rt></ruby>えがあ ります。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>る<ruby>時<rt>とき</rt></ruby>、<ruby>家<rt>いえ</rt></ruby>で<ruby>晩酌<rt>ばんしゃく</rt></ruby>する<ruby>時<rt>とき</rt></ruby>、<ruby>家族<rt>かぞく</rt></ruby>のおやつ、<ruby>急<rt>きゅう</rt></ruby>な<ruby>来客時<rt>らいきゃくじ</rt></ruby>にも、<ruby>袋<rt>ふくろ</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けてすぐ<ruby>出<rt>だ</rt></ruby>せま す。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>今<rt>いま</rt></ruby>このライブでは、<ruby>商品<rt>しょうひん</rt></ruby>ページだけでは<ruby>分<rt>わ</rt></ruby>かりにくい<ruby>割<rt>わ</rt></ruby>れ<ruby>具合<rt>ぐあい</rt></ruby>、サイズ、<ruby>食感<rt>しょっかん</rt></ruby>を<ruby>実際<rt>じっさい</rt></ruby>にお <ruby>見<rt>み</rt></ruby>せしています。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>気<rt>き</rt></ruby>になることがあれば、<ruby>今<rt>いま</rt></ruby>コメントで<ruby>聞<rt>き</rt></ruby>いてください。"
+        },
+        {
+          "type": "p",
+          "text": "クーポンが<ruby>表示<rt>ひょうじ</rt></ruby>されている<ruby>方<rt>かた</rt></ruby>は、<ruby>先<rt>さき</rt></ruby>に<ruby>取得<rt>しゅとく</rt></ruby>して、カート<ruby>内<rt>うち</rt></ruby>の<ruby>最終金額<rt>さいしゅうきんがく</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>してみてくだ さい。"
+        }
+      ]
+    },
+    {
+      "id": "s15",
+      "title": "19．<ruby>注文<rt>ちゅうもん</rt></ruby>が<ruby>入<rt>はい</rt></ruby>った<ruby>時<rt>とき</rt></ruby>の<ruby>言<rt>い</rt></ruby>い<ruby>方<rt>かた</rt></ruby>",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "1<ruby>件注文<rt>けんちゅうもん</rt></ruby>が<ruby>入<rt>はい</rt></ruby>った<ruby>時<rt>とき</rt></ruby>"
+        },
+        {
+          "type": "p",
+          "text": "ご<ruby>注文<rt>ちゅうもん</rt></ruby>ありがとうございます。"
+        },
+        {
+          "type": "p",
+          "text": "うす<ruby>塩味<rt>しおあじ</rt></ruby>、<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>はい</rt></ruby>っていただけたらうれしいです。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>届<rt>とど</rt></ruby>いたら、サクサク<ruby>感<rt>かん</rt></ruby>や<ruby>塩加減<rt>しおかげん</rt></ruby>の<ruby>感想<rt>かんそう</rt></ruby>もぜひ<ruby>教<rt>おし</rt></ruby>えてください。"
+        },
+        {
+          "type": "h3",
+          "text": "<ruby>続<rt>つづ</rt></ruby>けて<ruby>注文<rt>ちゅうもん</rt></ruby>が<ruby>入<rt>はい</rt></ruby>った<ruby>時<rt>とき</rt></ruby>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>皆<rt>みな</rt></ruby>さん、ご<ruby>注文<rt>ちゅうもん</rt></ruby>ありがとうございます。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>今<rt>いま</rt></ruby>、<ruby>続<rt>つづ</rt></ruby>けてご<ruby>注文<rt>ちゅうもん</rt></ruby>いただいています。"
+        },
+        {
+          "type": "p",
+          "text": "こちらは<ruby>訳<rt>わけ</rt></ruby>あり<ruby>商品<rt>しょうひん</rt></ruby>のため、<ruby>短<rt>みじか</rt></ruby>いものや<ruby>割<rt>わ</rt></ruby>れたものも<ruby>含<rt>ふく</rt></ruby>まれます。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>形<rt>かたち</rt></ruby>よりも、<ruby>味<rt>あじ</rt></ruby>や<ruby>量<rt>りょう</rt></ruby>を<ruby>重視<rt>じゅうし</rt></ruby>したい<ruby>方<rt>かた</rt></ruby>、ご<ruby>自宅用<rt>じたくよう</rt></ruby>にたっぷり<ruby>楽<rt>たの</rt></ruby>しみたい<ruby>方<rt>かた</rt></ruby>におすすめです。 <strong>リピーターが<ruby>購入<rt>こうにゅう</rt></ruby>した<ruby>時<rt>とき</rt></ruby> </strong>"
+        },
+        {
+          "type": "p",
+          "text": "リピート<ruby>購入<rt>こうにゅう</rt></ruby>ありがとうございます。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>前回食<rt>ぜんかいた</rt></ruby>べて、<ruby>今回<rt>こんかい</rt></ruby>も<ruby>選<rt>えら</rt></ruby>んでいただけたということですよね。"
+        },
+        {
+          "type": "p",
+          "text": "どんな<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>と<ruby>合<rt>あ</rt></ruby>わせたか、どんな<ruby>場面<rt>ばめん</rt></ruby>で<ruby>食<rt>た</rt></ruby>べたか、ぜひコメントで<ruby>教<rt>おし</rt></ruby>えてください。"
+        }
+      ]
+    },
+    {
+      "id": "s16",
+      "title": "20．よくある<ruby>質問<rt>しつもん</rt></ruby>と<ruby>回答<rt>かいとう</rt></ruby>",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "Q1．これは<ruby>冷凍<rt>れいとう</rt></ruby>のフライドポテトですか？"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>冷凍食品<rt>れいとうしょくひん</rt></ruby>ではありません。<ruby>袋<rt>ふくろ</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けて、そのまま<ruby>食<rt>た</rt></ruby>べられるスナック<ruby>菓子<rt>かし</rt></ruby>です。 <strong>Q2</strong><strong>．<ruby>温<rt>あたた</rt></ruby>める<ruby>必要<rt>ひつよう</rt></ruby>はありますか？ </strong>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>基本的<rt>きほんてき</rt></ruby>には<ruby>温<rt>あたた</rt></ruby>める<ruby>必要<rt>ひつよう</rt></ruby>はありません。そのままお<ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>がりいただけます。 <strong>Q3</strong><strong>．<ruby>訳<rt>わけ</rt></ruby>ありの<ruby>理由<rt>りゆう</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか？ </strong>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>製造工程<rt>せいぞうこうてい</rt></ruby>で<ruby>折<rt>お</rt></ruby>れてしまったものや、<ruby>形<rt>かたち</rt></ruby>・<ruby>長<rt>なが</rt></ruby>さが<ruby>不揃<rt>ふぞろ</rt></ruby>いなものが<ruby>含<rt>ふく</rt></ruby>まれているためです。<ruby>味<rt>あじ</rt></ruby> に<ruby>問題<rt>もんだい</rt></ruby>があるという<ruby>意味<rt>いみ</rt></ruby>ではありません。"
+        },
+        {
+          "type": "h3",
+          "text": "Q4．<ruby>割<rt>わ</rt></ruby>れているものは<ruby>多<rt>おお</rt></ruby>いですか？"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>訳<rt>わけ</rt></ruby>あり<ruby>商品<rt>しょうひん</rt></ruby>のため、<ruby>短<rt>みじか</rt></ruby>いものや<ruby>割<rt>わ</rt></ruby>れたものが<ruby>含<rt>ふく</rt></ruby>まれます。<ruby>袋<rt>ふくろ</rt></ruby>によって<ruby>割合<rt>わりあい</rt></ruby>が<ruby>異<rt>こと</rt></ruby>なる<ruby>場合<rt>ばあい</rt></ruby>が あります。"
+        },
+        {
+          "type": "h3",
+          "text": "Q5．<ruby>全部同<rt>ぜんぶおな</rt></ruby>じ<ruby>長<rt>なが</rt></ruby>さですか？"
+        },
+        {
+          "type": "p",
+          "text": "いいえ。<ruby>長<rt>なが</rt></ruby>いもの、<ruby>短<rt>みじか</rt></ruby>いもの、<ruby>少<rt>すこ</rt></ruby>し<ruby>欠<rt>か</rt></ruby>けたものなど、さまざまな<ruby>形<rt>かたち</rt></ruby>が<ruby>入<rt>はい</rt></ruby>っています。 <strong>Q6</strong><strong>．<ruby>味<rt>あじ</rt></ruby>は<ruby>濃<rt>こ</rt></ruby>いですか？ </strong>"
+        },
+        {
+          "type": "p",
+          "text": "うす<ruby>塩味<rt>しおあじ</rt></ruby>なので、<ruby>濃<rt>こ</rt></ruby>い<ruby>味<rt>あじ</rt></ruby>というより、じゃがいもの<ruby>風味<rt>ふうみ</rt></ruby>を<ruby>感<rt>かん</rt></ruby>じやすいシンプルな<ruby>味付<rt>あじつ</rt></ruby>けで す。<ruby>味<rt>あじ</rt></ruby>の<ruby>感<rt>かん</rt></ruby>じ<ruby>方<rt>かた</rt></ruby>には<ruby>個人差<rt>こじんさ</rt></ruby>があります。"
+        },
+        {
+          "type": "h3",
+          "text": "Q7．<ruby>辛<rt>から</rt></ruby>いですか？"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>唐辛子系<rt>とうがらしけい</rt></ruby>の<ruby>辛<rt>から</rt></ruby>い<ruby>味<rt>あじ</rt></ruby>ではありません。<ruby>定番<rt>ていばん</rt></ruby>のうす<ruby>塩味<rt>しおあじ</rt></ruby>です。"
+        },
+        {
+          "type": "h3",
+          "text": "Q8．<ruby>甘<rt>あま</rt></ruby>いですか？"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>甘<rt>あま</rt></ruby>いお<ruby>菓子<rt>かし</rt></ruby>ではありません。<ruby>基本的<rt>きほんてき</rt></ruby>には<ruby>塩味<rt>しおあじ</rt></ruby>のポテトスナックです。 <strong>Q9</strong><strong>．じゃがいもはどこ<ruby>産<rt>さん</rt></ruby>ですか？ </strong>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>原材料<rt>げんざいりょう</rt></ruby>に<ruby>使用<rt>しよう</rt></ruby>されているじゃがいもの<ruby>原産地<rt>げんさんち</rt></ruby>は<ruby>中国<rt>ちゅうごく</rt></ruby>です。"
+        },
+        {
+          "type": "h3",
+          "text": "Q10．<ruby>日本製<rt>にほんせい</rt></ruby>ですか？"
+        },
+        {
+          "type": "p",
+          "text": "じゃがいもの<ruby>原産地<rt>げんさんち</rt></ruby>は<ruby>中国<rt>ちゅうごく</rt></ruby>と<ruby>記載<rt>きさい</rt></ruby>されています。<ruby>製造<rt>せいぞう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>詳<rt>くわ</rt></ruby>しい<ruby>情報<rt>じょうほう</rt></ruby>は<ruby>商品<rt>しょうひん</rt></ruby>ページま たはパッケージをご<ruby>確認<rt>かくにん</rt></ruby>ください。"
+        },
+        {
+          "type": "h3",
+          "text": "Q11．<ruby>原材料<rt>げんざいりょう</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか？"
+        },
+        {
+          "type": "p",
+          "text": "じゃがいも、<ruby>植物油<rt>しょくぶつゆ</rt></ruby>、<ruby>食塩<rt>しょくえん</rt></ruby>、<ruby>酵母<rt>こうぼ</rt></ruby>エキス、<ruby>調味料<rt>ちょうみりょう</rt></ruby>、<ruby>酸化防止剤<rt>さんかぼうしざい</rt></ruby>などが<ruby>使用<rt>しよう</rt></ruby>されています。 <ruby>詳<rt>くわ</rt></ruby>しい<ruby>内容<rt>ないよう</rt></ruby>は<ruby>商品<rt>しょうひん</rt></ruby>ページをご<ruby>確認<rt>かくにん</rt></ruby>ください。"
+        },
+        {
+          "type": "h3",
+          "text": "Q12．<ruby>無添加<rt>むてんか</rt></ruby>ですか？"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>無添加<rt>むてんか</rt></ruby>の<ruby>商品<rt>しょうひん</rt></ruby>ではありません。<ruby>調味料<rt>ちょうみりょう</rt></ruby>や<ruby>酸化防止剤<rt>さんかぼうしざい</rt></ruby>が<ruby>使用<rt>しよう</rt></ruby>されていますので、<ruby>原材料表示<rt>げんざいりょうひょうじ</rt></ruby> をご<ruby>確認<rt>かくにん</rt></ruby>ください。"
+        },
+        {
+          "type": "h3",
+          "text": "Q13．アレルギーはありますか？"
+        },
+        {
+          "type": "p",
+          "text": "アレルギーをお<ruby>持<rt>も</rt></ruby>ちの<ruby>方<rt>かた</rt></ruby>は、<ruby>商品<rt>しょうひん</rt></ruby>ページまたはパッケージのアレルギー<ruby>表示<rt>ひょうじ</rt></ruby>を<ruby>必<rt>かなら</rt></ruby>ずご<ruby>確認<rt>かくにん</rt></ruby> ください。"
+        },
+        {
+          "type": "h3",
+          "text": "Q14．<ruby>子<rt>こ</rt></ruby>どもも<ruby>食<rt>た</rt></ruby>べられますか？"
+        },
+        {
+          "type": "p",
+          "text": "お<ruby>子様<rt>こさま</rt></ruby>のおやつとして<ruby>食<rt>た</rt></ruby>べる<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>年齢<rt>ねんれい</rt></ruby>や<ruby>噛<rt>か</rt></ruby>む<ruby>力<rt>ちから</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせて、<ruby>保護者<rt>ほごしゃ</rt></ruby>の<ruby>方<rt>かた</rt></ruby>が<ruby>見守<rt>みまも</rt></ruby>りなが らお<ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>がりください。"
+        },
+        {
+          "type": "h3",
+          "text": "Q15．<ruby>賞味期限<rt>しょうみきげん</rt></ruby>はどのくらいですか？"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>賞味期限<rt>しょうみきげん</rt></ruby>は<ruby>商品<rt>しょうひん</rt></ruby>パッケージに<ruby>記載<rt>きさい</rt></ruby>されています。<ruby>入荷時期<rt>にゅうかじき</rt></ruby>によって<ruby>異<rt>こと</rt></ruby>なるため、<ruby>届<rt>とど</rt></ruby>いた<ruby>商<rt>しょう</rt></ruby> <ruby>品<rt>ひん</rt></ruby>の<ruby>表示<rt>ひょうじ</rt></ruby>をご<ruby>確認<rt>かくにん</rt></ruby>ください。"
+        },
+        {
+          "type": "h3",
+          "text": "Q16．<ruby>開封後<rt>かいふうご</rt></ruby>はどのくらい<ruby>持<rt>も</rt></ruby>ちますか？"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>開封後<rt>かいふうご</rt></ruby>はチャックをしっかり<ruby>閉<rt>し</rt></ruby>め、<ruby>湿気<rt>しっけ</rt></ruby>を<ruby>避<rt>さ</rt></ruby>けて、なるべく<ruby>早<rt>はや</rt></ruby>めにお<ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>がりくださ い。"
+        },
+        {
+          "type": "h3",
+          "text": "Q17．<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>れた<ruby>方<rt>かた</rt></ruby>がいいですか？"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>基本的<rt>きほんてき</rt></ruby>には、<ruby>直射日光<rt>ちょくしゃにっこう</rt></ruby>や<ruby>高温多湿<rt>こうおんたしつ</rt></ruby>を<ruby>避<rt>さ</rt></ruby>け、<ruby>涼<rt>すず</rt></ruby>しい<ruby>場所<rt>ばしょ</rt></ruby>で<ruby>保存<rt>ほぞん</rt></ruby>してください。 <strong>Q18</strong><strong>．チャックは<ruby>付<rt>つ</rt></ruby>いていますか？</strong>"
+        },
+        {
+          "type": "p",
+          "text": "はい。チャック<ruby>付<rt>つ</rt></ruby>きなので、<ruby>何回<rt>なんかい</rt></ruby>かに<ruby>分<rt>わ</rt></ruby>けて<ruby>食<rt>た</rt></ruby>べる<ruby>時<rt>とき</rt></ruby>にも<ruby>便利<rt>べんり</rt></ruby>です。 <strong>Q19</strong><strong>．<ruby>何<rt>なに</rt></ruby>グラム<ruby>入<rt>はい</rt></ruby>っていますか？ </strong>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>商品<rt>しょうひん</rt></ruby>ページでは250gと350gが<ruby>表示<rt>ひょうじ</rt></ruby>されています。<ruby>購入前<rt>こうにゅうまえ</rt></ruby>に<ruby>選択<rt>せんたく</rt></ruby>している<ruby>内容量<rt>ないようりょう</rt></ruby>をご<ruby>確認<rt>かくにん</rt></ruby>く ださい。"
+        },
+        {
+          "type": "h3",
+          "text": "Q20．<ruby>一人<rt>ひとり</rt></ruby>でも<ruby>食<rt>た</rt></ruby>べ<ruby>切<rt>き</rt></ruby>れますか？"
+        },
+        {
+          "type": "p",
+          "text": "チャック<ruby>付<rt>つ</rt></ruby>きなので、<ruby>一度<rt>いちど</rt></ruby>に<ruby>食<rt>た</rt></ruby>べ<ruby>切<rt>き</rt></ruby>る<ruby>必要<rt>ひつよう</rt></ruby>はありません。<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>分<rt>わ</rt></ruby>けて<ruby>食<rt>た</rt></ruby>べられます。 <strong>Q21</strong><strong>．お<ruby>酒<rt>さけ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いますか？ </strong>"
+        },
+        {
+          "type": "p",
+          "text": "シンプルなうす<ruby>塩味<rt>しおあじ</rt></ruby>なので、ビールやハイボールのおつまみにも<ruby>合<rt>あ</rt></ruby>わせやすいと<ruby>思<rt>おも</rt></ruby>いま す。"
+        },
+        {
+          "type": "h3",
+          "text": "Q22．ほかの<ruby>食<rt>た</rt></ruby>べ<ruby>方<rt>かた</rt></ruby>はありますか？"
+        },
+        {
+          "type": "p",
+          "text": "そのまま<ruby>食<rt>た</rt></ruby>べるほか、サラダのトッピング、バニラアイス、ディップソースなどと<ruby>合<rt>あ</rt></ruby>わせ るのもおすすめです。"
+        },
+        {
+          "type": "h3",
+          "text": "Q23．プレゼントにできますか？"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>訳<rt>わけ</rt></ruby>あり<ruby>商品<rt>しょうひん</rt></ruby>なので、<ruby>形<rt>かたち</rt></ruby>が<ruby>不揃<rt>ふぞろ</rt></ruby>いなものや<ruby>割<rt>わ</rt></ruby>れたものが<ruby>含<rt>ふく</rt></ruby>まれます。<ruby>正式<rt>せいしき</rt></ruby>な<ruby>贈答用<rt>ぞうとうよう</rt></ruby>というよ り、ご<ruby>自宅用<rt>じたくよう</rt></ruby>や<ruby>気軽<rt>きがる</rt></ruby>なプレゼント<ruby>向<rt>む</rt></ruby>けです。"
+        },
+        {
+          "type": "h3",
+          "text": "Q24．<ruby>届<rt>とど</rt></ruby>いた<ruby>時<rt>とき</rt></ruby>に<ruby>割<rt>わ</rt></ruby>れていたら<ruby>不良品<rt>ふりょうひん</rt></ruby>ですか？"
+        },
+        {
+          "type": "p",
+          "text": "こちらは、もともと<ruby>割<rt>わ</rt></ruby>れや<ruby>欠<rt>か</rt></ruby>け、<ruby>形<rt>かたち</rt></ruby>の<ruby>不揃<rt>ふぞろ</rt></ruby>いを<ruby>含<rt>ふく</rt></ruby>む<ruby>訳<rt>わけ</rt></ruby>あり<ruby>商品<rt>しょうひん</rt></ruby>です。ただし、<ruby>袋<rt>ふくろ</rt></ruby>が<ruby>破<rt>やぶ</rt></ruby>れて いる<ruby>場合<rt>ばあい</rt></ruby>や、<ruby>商品<rt>しょうひん</rt></ruby>に<ruby>明<rt>あき</rt></ruby>らかな<ruby>異常<rt>いじょう</rt></ruby>がある<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>注文<rt>ちゅうもん</rt></ruby>ページから<ruby>販売店<rt>はんばいてん</rt></ruby>へお<ruby>問<rt>と</rt></ruby>い<ruby>合<rt>あ</rt></ruby>わせく ださい。"
+        },
+        {
+          "type": "h3",
+          "text": "Q25．<ruby>送料<rt>そうりょう</rt></ruby>はいくらですか？"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>送料<rt>そうりょう</rt></ruby>は<ruby>注文内容<rt>ちゅうもんないよう</rt></ruby>や<ruby>配送地域<rt>はいそうちいき</rt></ruby>によって<ruby>異<rt>こと</rt></ruby>なる<ruby>場合<rt>ばあい</rt></ruby>があります。<ruby>商品<rt>しょうひん</rt></ruby>ページと<ruby>注文確認画面<rt>ちゅうもんかくにんがめん</rt></ruby>を ご<ruby>確認<rt>かくにん</rt></ruby>ください。"
+        },
+        {
+          "type": "h3",
+          "text": "Q26．いつ<ruby>届<rt>とど</rt></ruby>きますか？"
+        },
+        {
+          "type": "p",
+          "text": "お<ruby>届<rt>とど</rt></ruby>け<ruby>予定日<rt>よていび</rt></ruby>は、<ruby>配送地域<rt>はいそうちいき</rt></ruby>や<ruby>注文状況<rt>ちゅうもんじょうきょう</rt></ruby>によって<ruby>異<rt>こと</rt></ruby>なります。<ruby>注文画面<rt>ちゅうもんがめん</rt></ruby>に<ruby>表示<rt>ひょうじ</rt></ruby>される<ruby>予定日<rt>よていび</rt></ruby> をご<ruby>確認<rt>かくにん</rt></ruby>ください。"
+        }
+      ]
+    },
+    {
+      "id": "s17",
+      "title": "22．<ruby>否定的<rt>ひていてき</rt></ruby>なコメントへの<ruby>対応<rt>たいおう</rt></ruby>",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "「<ruby>中国産<rt>ちゅうごくさん</rt></ruby>は<ruby>気<rt>き</rt></ruby>になります」"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>原材料<rt>げんざいりょう</rt></ruby>に<ruby>使用<rt>しよう</rt></ruby>されているじゃがいもの<ruby>原産地<rt>げんさんち</rt></ruby>は<ruby>中国<rt>ちゅうごく</rt></ruby>と<ruby>記載<rt>きさい</rt></ruby>されています。<ruby>産地<rt>さんち</rt></ruby>を<ruby>重視<rt>じゅうし</rt></ruby>され る<ruby>方<rt>かた</rt></ruby>は、<ruby>表示<rt>ひょうじ</rt></ruby>をご<ruby>確認<rt>かくにん</rt></ruby>いただいた<ruby>上<rt>うえ</rt></ruby>でご<ruby>判断<rt>はんだん</rt></ruby>ください。"
+        },
+        {
+          "type": "h3",
+          "text": "「<ruby>割<rt>わ</rt></ruby>れたものが<ruby>多<rt>おお</rt></ruby>そう」"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>訳<rt>わけ</rt></ruby>あり<ruby>商品<rt>しょうひん</rt></ruby>のため、<ruby>短<rt>みじか</rt></ruby>いものや<ruby>割<rt>わ</rt></ruby>れたものが<ruby>含<rt>ふく</rt></ruby>まれます。<ruby>形<rt>かたち</rt></ruby>のきれいさよりも、<ruby>味<rt>あじ</rt></ruby>や<ruby>量<rt>りょう</rt></ruby>を <ruby>重視<rt>じゅうし</rt></ruby>したい<ruby>方向<rt>ほうこう</rt></ruby>けの<ruby>商品<rt>しょうひん</rt></ruby>です。"
+        },
+        {
+          "type": "h3",
+          "text": "「<ruby>量<rt>りょう</rt></ruby>が<ruby>多<rt>おお</rt></ruby>すぎる」"
+        },
+        {
+          "type": "p",
+          "text": "チャック<ruby>付<rt>つ</rt></ruby>きなので、<ruby>一度<rt>いちど</rt></ruby>に<ruby>全部食<rt>ぜんぶた</rt></ruby>べ<ruby>切<rt>き</rt></ruby>る<ruby>必要<rt>ひつよう</rt></ruby>はありません。<ruby>何回<rt>なんかい</rt></ruby>かに<ruby>分<rt>わ</rt></ruby>けて<ruby>食<rt>た</rt></ruby>べたり、 ご<ruby>家族<rt>かぞく</rt></ruby>でシェアしたりできます。"
+        },
+        {
+          "type": "h3",
+          "text": "「<ruby>値段<rt>ねだん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>いです」"
+        },
+        {
+          "type": "p",
+          "text": "250gまたは350gの<ruby>大容量<rt>だいようりょう</rt></ruby>タイプです。<ruby>価格<rt>かかく</rt></ruby>だけでなく、<ruby>内容量<rt>ないようりょう</rt></ruby>とクーポン<ruby>適用後<rt>てきようご</rt></ruby>の<ruby>最終金<rt>さいしゅうきん</rt></ruby> <ruby>額<rt>がく</rt></ruby>も<ruby>確認<rt>かくにん</rt></ruby>して<ruby>比較<rt>ひかく</rt></ruby>してみてください。"
+        },
+        {
+          "type": "h3",
+          "text": "「<ruby>添加物<rt>てんかぶつ</rt></ruby>が<ruby>入<rt>はい</rt></ruby>っていますか？」"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>原材料<rt>げんざいりょう</rt></ruby>には<ruby>調味料<rt>ちょうみりょう</rt></ruby>や<ruby>酸化防止剤<rt>さんかぼうしざい</rt></ruby>が<ruby>記載<rt>きさい</rt></ruby>されています。<ruby>無添加<rt>むてんか</rt></ruby>の<ruby>商品<rt>しょうひん</rt></ruby>ではありませんので、 <ruby>原材料表示<rt>げんざいりょうひょうじ</rt></ruby>をご<ruby>確認<rt>かくにん</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>でお<ruby>選<rt>えら</rt></ruby>びください。"
+        }
+      ]
+    },
+    {
+      "id": "s18",
+      "title": "23．<ruby>配信中<rt>はいしんちゅう</rt></ruby>に<ruby>避<rt>さ</rt></ruby>ける<ruby>表現<rt>ひょうげん</rt></ruby>",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "<ruby>確認<rt>かくにん</rt></ruby>できていない<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>以下<rt>いか</rt></ruby>の<ruby>表現<rt>ひょうげん</rt></ruby>を<ruby>使用<rt>しよう</rt></ruby>しないでください。"
+        },
+        {
+          "type": "p",
+          "text": "• <ruby>国産<rt>こくさん</rt></ruby>じゃがいもを<ruby>使用<rt>しよう</rt></ruby>しています"
+        },
+        {
+          "type": "p",
+          "text": "• <ruby>日本製<rt>にほんせい</rt></ruby>です"
+        },
+        {
+          "type": "p",
+          "text": "• <ruby>完全無添加<rt>かんぜんむてんか</rt></ruby>です"
+        },
+        {
+          "type": "p",
+          "text": "• <ruby>保存料<rt>ほぞんりょう</rt></ruby>は<ruby>一切入<rt>いっさいはい</rt></ruby>っていません"
+        },
+        {
+          "type": "p",
+          "text": "• グルテンフリーです"
+        },
+        {
+          "type": "p",
+          "text": "• <ruby>低<rt>てい</rt></ruby>カロリーです"
+        },
+        {
+          "type": "p",
+          "text": "• ダイエットに<ruby>最適<rt>さいてき</rt></ruby>です"
+        },
+        {
+          "type": "p",
+          "text": "• <ruby>健康<rt>けんこう</rt></ruby>に<ruby>良<rt>よ</rt></ruby>いお<ruby>菓子<rt>かし</rt></ruby>です"
+        },
+        {
+          "type": "p",
+          "text": "• <ruby>何歳<rt>なんさい</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもでも<ruby>安全<rt>あんぜん</rt></ruby>です"
+        },
+        {
+          "type": "p",
+          "text": "• アレルギーの<ruby>心配<rt>しんぱい</rt></ruby>はありません"
+        },
+        {
+          "type": "p",
+          "text": "• <ruby>賞味期限<rt>しょうみきげん</rt></ruby>は<ruby>必<rt>かなら</rt></ruby>ず<ruby>半年以上<rt>はんとしいじょう</rt></ruby>あります"
+        },
+        {
+          "type": "p",
+          "text": "• ほとんど<ruby>割<rt>わ</rt></ruby>れていません"
+        },
+        {
+          "type": "p",
+          "text": "• <ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>湿気<rt>しっけ</rt></ruby>ません"
+        },
+        {
+          "type": "p",
+          "text": "• <ruby>今日<rt>きょう</rt></ruby>しか<ruby>買<rt>か</rt></ruby>えません"
+        },
+        {
+          "type": "p",
+          "text": "• <ruby>必<rt>かなら</rt></ruby>ず20％OFFになります"
+        },
+        {
+          "type": "p",
+          "text": "• <ruby>残<rt>のこ</rt></ruby>り〇<ruby>個<rt>こ</rt></ruby>です"
+        },
+        {
+          "type": "p",
+          "text": "• あと〇<ruby>分<rt>わ</rt></ruby>で<ruby>値上<rt>ねあ</rt></ruby>がりします"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>在庫数<rt>ざいこすう</rt></ruby>、<ruby>限定価格<rt>げんていかかく</rt></ruby>、<ruby>終了時間<rt>しゅうりょうじかん</rt></ruby>、クーポン<ruby>条件<rt>じょうけん</rt></ruby>については、<ruby>実際<rt>じっさい</rt></ruby>の<ruby>販売画面<rt>はんばいがめん</rt></ruby>で<ruby>確認<rt>かくにん</rt></ruby>できる<ruby>場<rt>ば</rt></ruby> <ruby>合<rt>あ</rt></ruby>のみ<ruby>案内<rt>あんない</rt></ruby>してください。"
+        }
+      ]
+    },
+    {
+      "id": "s19",
+      "title": "24．15<ruby>分間<rt>ふんかん</rt></ruby>の<ruby>配信構成<rt>はいしんこうせい</rt></ruby>",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "0～1<ruby>分<rt>わ</rt></ruby>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>生活場面<rt>せいかつばめん</rt></ruby>から<ruby>入<rt>はい</rt></ruby>り、<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>一言<rt>ひとこと</rt></ruby>で<ruby>説明<rt>せつめい</rt></ruby>します。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>映画<rt>えいが</rt></ruby>や<ruby>晩酌<rt>ばんしゃく</rt></ruby>の<ruby>時<rt>とき</rt></ruby>に、<ruby>袋<rt>ふくろ</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けてすぐ<ruby>食<rt>た</rt></ruby>べられるポテトスナックです。 <strong>1</strong><strong>～</strong><strong>3</strong><strong><ruby>分<rt>わ</rt></ruby> </strong>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>商品名<rt>しょうひんめい</rt></ruby>、<ruby>内容量<rt>ないようりょう</rt></ruby>、<ruby>価格<rt>かかく</rt></ruby>、<ruby>味<rt>あじ</rt></ruby>、<ruby>原産地<rt>げんさんち</rt></ruby>、<ruby>保存方法<rt>ほぞんほうほう</rt></ruby>を<ruby>説明<rt>せつめい</rt></ruby>します。"
+        },
+        {
+          "type": "h3",
+          "text": "3～5<ruby>分<rt>わ</rt></ruby>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>商品<rt>しょうひん</rt></ruby>をお<ruby>皿<rt>さら</rt></ruby>に<ruby>出<rt>だ</rt></ruby>し、<ruby>訳<rt>わけ</rt></ruby>ありの<ruby>理由<rt>りゆう</rt></ruby>、<ruby>長<rt>なが</rt></ruby>さ、<ruby>割<rt>わ</rt></ruby>れ<ruby>具合<rt>ぐあい</rt></ruby>を<ruby>見<rt>み</rt></ruby>せます。"
+        },
+        {
+          "type": "h3",
+          "text": "5～7<ruby>分<rt>わ</rt></ruby>"
+        },
+        {
+          "type": "p",
+          "text": "マイクの<ruby>近<rt>ちか</rt></ruby>くで<ruby>試食<rt>ししょく</rt></ruby>し、サクサクした<ruby>音<rt>おと</rt></ruby>と<ruby>食感<rt>しょっかん</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>えます。"
+        },
+        {
+          "type": "h3",
+          "text": "7～9<ruby>分<rt>わ</rt></ruby>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>映画<rt>えいが</rt></ruby>、<ruby>晩酌<rt>ばんしゃく</rt></ruby>、<ruby>家族<rt>かぞく</rt></ruby>のおやつ、<ruby>来客<rt>らいきゃく</rt></ruby>、キャンプなどの<ruby>生活場面<rt>せいかつばめん</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>します。 <strong>9</strong><strong>～</strong><strong>11</strong><strong><ruby>分<rt>わ</rt></ruby> </strong>"
+        },
+        {
+          "type": "p",
+          "text": "サラダ、バニラアイス、ディップソースなどのアレンジを<ruby>紹介<rt>しょうかい</rt></ruby>します。"
+        },
+        {
+          "type": "h3",
+          "text": "11～13<ruby>分<rt>わ</rt></ruby>"
+        },
+        {
+          "type": "p",
+          "text": "なぜライブで<ruby>確認<rt>かくにん</rt></ruby>するメリットがあるのか、クーポンと<ruby>容量<rt>ようりょう</rt></ruby>の<ruby>選<rt>えら</rt></ruby>び<ruby>方<rt>かた</rt></ruby>を<ruby>説明<rt>せつめい</rt></ruby>します。 <strong>13</strong><strong>～</strong><strong>15</strong><strong><ruby>分<rt>わ</rt></ruby> </strong>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>質問<rt>しつもん</rt></ruby>に<ruby>回答<rt>かいとう</rt></ruby>し、カートで<ruby>最終金額<rt>さいしゅうきんがく</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>するよう<ruby>案内<rt>あんない</rt></ruby>します。"
+        }
+      ]
+    },
+    {
+      "id": "s20",
+      "title": "25．<ruby>最後<rt>さいご</rt></ruby>の<ruby>購入促進<rt>こうにゅうそくしん</rt></ruby>トーク",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "<ruby>最後<rt>さいご</rt></ruby>に、もう<ruby>一度<rt>いちど</rt></ruby>ご<ruby>紹介<rt>しょうかい</rt></ruby>します。"
+        },
+        {
+          "type": "p",
+          "text": "こちらは<ruby>前田家<rt>まえだや</rt></ruby>の「<ruby>訳<rt>わけ</rt></ruby>ありフライドポテトスナック うす<ruby>塩<rt>しお</rt></ruby>」です。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>製造工程<rt>せいぞうこうてい</rt></ruby>で<ruby>折<rt>お</rt></ruby>れてしまったものや、<ruby>長<rt>なが</rt></ruby>さ・<ruby>形<rt>かたち</rt></ruby>が<ruby>不揃<rt>ふぞろ</rt></ruby>いなものが<ruby>含<rt>ふく</rt></ruby>まれているため、<ruby>訳<rt>わけ</rt></ruby>あり <ruby>商品<rt>しょうひん</rt></ruby>として<ruby>販売<rt>はんばい</rt></ruby>されています。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>訳<rt>わけ</rt></ruby>ありなのは<ruby>主<rt>おも</rt></ruby>に<ruby>見<rt>み</rt></ruby>た<ruby>目<rt>め</rt></ruby>の<ruby>部分<rt>ぶぶん</rt></ruby>で、<ruby>味<rt>あじ</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いという<ruby>意味<rt>いみ</rt></ruby>ではありません。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>袋<rt>ふくろ</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けてそのまま<ruby>食<rt>た</rt></ruby>べられるので、<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>る<ruby>時<rt>とき</rt></ruby>、<ruby>家<rt>いえ</rt></ruby>で<ruby>晩酌<rt>ばんしゃく</rt></ruby>する<ruby>時<rt>とき</rt></ruby>、<ruby>家族<rt>かぞく</rt></ruby>のおやつ、<ruby>急<rt>きゅう</rt></ruby> な<ruby>来客時<rt>らいきゃくじ</rt></ruby>にも<ruby>使<rt>つか</rt></ruby>いやすいです。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>薄<rt>うす</rt></ruby>いポテトチップスとは<ruby>違<rt>ちが</rt></ruby>って、スティック<ruby>状<rt>じょう</rt></ruby>で<ruby>少<rt>すこ</rt></ruby>し<ruby>厚<rt>あつ</rt></ruby>みがあり、サクサクとした<ruby>食感<rt>しょっかん</rt></ruby>を <ruby>楽<rt>たの</rt></ruby>しめます。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>今<rt>いま</rt></ruby>このライブでは、<ruby>商品<rt>しょうひん</rt></ruby>ページだけでは<ruby>分<rt>わ</rt></ruby>かりにくい<ruby>割<rt>わ</rt></ruby>れ<ruby>具合<rt>ぐあい</rt></ruby>、サイズ、<ruby>食感<rt>しょっかん</rt></ruby>を<ruby>実際<rt>じっさい</rt></ruby>に<ruby>確<rt>たし</rt></ruby> <ruby>認<rt>みと</rt></ruby>していただけます。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>原産地<rt>げんさんち</rt></ruby>、<ruby>容量<rt>ようりょう</rt></ruby>、<ruby>味<rt>あじ</rt></ruby>、<ruby>保存方法<rt>ほぞんほうほう</rt></ruby>など、<ruby>気<rt>き</rt></ruby>になることがあれば、<ruby>注文前<rt>ちゅうもんまえ</rt></ruby>にコメントで<ruby>聞<rt>き</rt></ruby>いてく ださい。"
+        },
+        {
+          "type": "p",
+          "text": "クーポンが<ruby>表示<rt>ひょうじ</rt></ruby>されている<ruby>方<rt>かた</rt></ruby>は、<ruby>先<rt>さき</rt></ruby>に<ruby>取得<rt>しゅとく</rt></ruby>して、カート<ruby>内<rt>うち</rt></ruby>の<ruby>割引後<rt>わりびきご</rt></ruby>の<ruby>金額<rt>きんがく</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>してみて ください。"
+        },
+        {
+          "type": "p",
+          "text": "すぐに<ruby>注文<rt>ちゅうもん</rt></ruby>を<ruby>確定<rt>かくてい</rt></ruby>しなくても<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です。"
+        },
+        {
+          "type": "p",
+          "text": "まずカートに<ruby>入<rt>はい</rt></ruby>れて、<ruby>容量<rt>ようりょう</rt></ruby>、クーポン、<ruby>最終金額<rt>さいしゅうきんがく</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>してください。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>形<rt>かたち</rt></ruby>が<ruby>不揃<rt>ふぞろ</rt></ruby>いでも<ruby>気<rt>き</rt></ruby>にならない<ruby>方<rt>かた</rt></ruby>、うす<ruby>塩味<rt>しおあじ</rt></ruby>が<ruby>好<rt>す</rt></ruby>きな<ruby>方<rt>かた</rt></ruby>、ご<ruby>自宅用<rt>じたくよう</rt></ruby>にたっぷり<ruby>楽<rt>たの</rt></ruby>しみたい<ruby>方<rt>かた</rt></ruby> は、<ruby>内容<rt>ないよう</rt></ruby>に<ruby>納得<rt>なっとく</rt></ruby>できましたら、そのままご<ruby>注文<rt>ちゅうもん</rt></ruby>ください。"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-14"
+}

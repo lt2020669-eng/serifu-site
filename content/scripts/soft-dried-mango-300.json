@@ -1,0 +1,224 @@
+{
+  "id": "soft-dried-mango-300",
+  "title": "ソフトドライマンゴー 300g",
+  "productName": "ソフトドライマンゴー 300g",
+  "category": {
+    "industry": "food",
+    "industryLabel": "食品",
+    "subcategory": "dried-fruit",
+    "subcategoryLabel": "ドライフルーツ・干物"
+  },
+  "scriptType": "intro-points",
+  "tags": [
+    "ドライマンゴー",
+    "300g",
+    "おやつ"
+  ],
+  "image": "assets/images/soft-dried-mango-300.png",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "ソフトドライマンゴー 300g｜<ruby>紹介<rt>しょうかい</rt></ruby>ポイント",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "この<ruby>商品<rt>しょうひん</rt></ruby>は、ただ「おいしい」「やわらかい」だけだと<ruby>少<rt>すこ</rt></ruby>し<ruby>弱<rt>よわ</rt></ruby>いです。 <ruby>話<rt>はな</rt></ruby>す<ruby>時<rt>とき</rt></ruby>は、<strong>“ちょっと<ruby>何<rt>なに</rt></ruby>か<ruby>食<rt>た</rt></ruby>べたい<ruby>時<rt>とき</rt></ruby>にちょうどいい” </strong>みたいな<ruby>日常<rt>にちじょう</rt></ruby>の<ruby>感覚<rt>かんかく</rt></ruby>に<ruby>寄<rt>よ</rt></ruby>せると<ruby>伝<rt>つた</rt></ruby> わりやすいです。"
+        },
+        {
+          "type": "p",
+          "text": "たとえば、"
+        },
+        {
+          "type": "p",
+          "text": "• <ruby>甘<rt>あま</rt></ruby>いものは<ruby>食<rt>た</rt></ruby>べたいけど、お<ruby>菓子<rt>かし</rt></ruby>はちょっと<ruby>重<rt>おも</rt></ruby>い"
+        },
+        {
+          "type": "p",
+          "text": "• フルーツは<ruby>食<rt>た</rt></ruby>べたいけど、<ruby>切<rt>き</rt></ruby>るのが<ruby>面倒<rt>めんどう</rt></ruby>"
+        },
+        {
+          "type": "p",
+          "text": "• <ruby>小腹<rt>こばら</rt></ruby>が<ruby>空<rt>す</rt></ruby>いた<ruby>時<rt>とき</rt></ruby>に、<ruby>手軽<rt>てがる</rt></ruby>に<ruby>食<rt>た</rt></ruby>べられるものがほしい"
+        },
+        {
+          "type": "p",
+          "text": "• ドライフルーツは<ruby>硬<rt>かた</rt></ruby>そうで<ruby>心配<rt>しんぱい</rt></ruby>"
+        },
+        {
+          "type": "p",
+          "text": "このあたりを<ruby>入<rt>はい</rt></ruby>れると、<ruby>見<rt>み</rt></ruby>ている<ruby>人<rt>ひと</rt></ruby>が<ruby>想像<rt>そうぞう</rt></ruby>しやすいです。"
+        },
+        {
+          "type": "lead",
+          "text": "<ruby>見<rt>み</rt></ruby>せ<ruby>方<rt>かた</rt></ruby>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>袋<rt>ふくろ</rt></ruby>だけ<ruby>見<rt>み</rt></ruby>せて<ruby>終<rt>お</rt></ruby>わりではなく、"
+        },
+        {
+          "type": "p",
+          "text": "<strong><ruby>中身<rt>なかみ</rt></ruby>をちゃんと<ruby>出<rt>だ</rt></ruby>して<ruby>見<rt>み</rt></ruby>せる </strong>のが<ruby>大事<rt>だいじ</rt></ruby>です。"
+        },
+        {
+          "type": "p",
+          "text": "まずは1<ruby>枚持<rt>まいも</rt></ruby>って、カメラに<ruby>少<rt>すこ</rt></ruby>し<ruby>近<rt>ちか</rt></ruby>づけて、"
+        },
+        {
+          "type": "p",
+          "text": "「1<ruby>枚<rt>まい</rt></ruby>がこんな<ruby>感<rt>かん</rt></ruby>じでちゃんと<ruby>大<rt>おお</rt></ruby>きめです」"
+        },
+        {
+          "type": "p",
+          "text": "と<ruby>見<rt>み</rt></ruby>せると<ruby>分<rt>わ</rt></ruby>かりやすいです。"
+        },
+        {
+          "type": "p",
+          "text": "そのあと、<ruby>軽<rt>かる</rt></ruby>く<ruby>曲<rt>ま</rt></ruby>げてみせて、"
+        },
+        {
+          "type": "p",
+          "text": "「ソフトタイプなので、<ruby>硬<rt>かた</rt></ruby>すぎる<ruby>感<rt>かん</rt></ruby>じではないです」"
+        },
+        {
+          "type": "p",
+          "text": "と<ruby>伝<rt>つた</rt></ruby>えると、<ruby>食感<rt>しょっかん</rt></ruby>のイメージが<ruby>伝<rt>つた</rt></ruby>わりやすいです。"
+        },
+        {
+          "type": "p",
+          "text": "できれば<ruby>実際<rt>じっさい</rt></ruby>に<ruby>食<rt>た</rt></ruby>べる<ruby>流<rt>なが</rt></ruby>れもあるといいです。"
+        },
+        {
+          "type": "p",
+          "text": "その<ruby>時<rt>とき</rt></ruby>は、いきなり「おいしいです」ではなくて、"
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>思<rt>おも</rt></ruby>ったよりやわらかいです」"
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>甘<rt>あま</rt></ruby>みはしっかりあるんですけど、<ruby>重<rt>おも</rt></ruby>すぎない<ruby>感<rt>かん</rt></ruby>じです」"
+        },
+        {
+          "type": "p",
+          "text": "「こういうの、ついもう1<ruby>枚食<rt>まいた</rt></ruby>べたくなりますよね」"
+        },
+        {
+          "type": "p",
+          "text": "みたいに、<strong><ruby>食感<rt>しょっかん</rt></ruby>→<ruby>味<rt>あじ</rt></ruby>→<ruby>食<rt>た</rt></ruby>べやすさ </strong>の<ruby>順<rt>じゅん</rt></ruby>で<ruby>話<rt>はな</rt></ruby>すと<ruby>自然<rt>しぜん</rt></ruby>です。"
+        },
+        {
+          "type": "lead",
+          "text": "<ruby>話<rt>はな</rt></ruby>しやすい<ruby>言<rt>い</rt></ruby>い<ruby>方<rt>かた</rt></ruby>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>入<rt>はい</rt></ruby>りは、こんな<ruby>感<rt>かん</rt></ruby>じが<ruby>自然<rt>しぜん</rt></ruby>です。"
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>甘<rt>あま</rt></ruby>いものが<ruby>欲<rt>ほ</rt></ruby>しい<ruby>時<rt>とき</rt></ruby>ってありますよね。"
+        },
+        {
+          "type": "p",
+          "text": "でもスナック<ruby>菓子<rt>かし</rt></ruby>だとちょっと<ruby>重<rt>おも</rt></ruby>いな、っていう<ruby>時<rt>とき</rt></ruby>に、こういうフルーツ<ruby>系<rt>けい</rt></ruby>のおやつって ちょうどいいんです。」"
+        },
+        {
+          "type": "p",
+          "text": "「フルーツって、<ruby>買<rt>か</rt></ruby>っても<ruby>切<rt>き</rt></ruby>るのが<ruby>面倒<rt>めんどう</rt></ruby>で<ruby>結局食<rt>けっきょくた</rt></ruby>べないこともあると<ruby>思<rt>おも</rt></ruby>うんですが、 これは<ruby>開<rt>あ</rt></ruby>けてそのまま<ruby>食<rt>た</rt></ruby>べられるので<ruby>手軽<rt>てがる</rt></ruby>です。」"
+        },
+        {
+          "type": "p",
+          "text": "「ドライマンゴーって、ものによっては<ruby>硬<rt>かた</rt></ruby>いものもありますが、"
+        },
+        {
+          "type": "p",
+          "text": "これはソフトタイプなので<ruby>食<rt>た</rt></ruby>べやすいです。」"
+        },
+        {
+          "type": "lead",
+          "text": "<ruby>使用<rt>しよう</rt></ruby>シーン"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>使<rt>つか</rt></ruby>う<ruby>場面<rt>ばめん</rt></ruby>は、こういう<ruby>言<rt>い</rt></ruby>い<ruby>方<rt>かた</rt></ruby>がしやすいです。"
+        },
+        {
+          "type": "p",
+          "text": "• <ruby>仕事<rt>しごと</rt></ruby>や<ruby>勉強<rt>べんきょう</rt></ruby>の<ruby>合間<rt>あいま</rt></ruby>に"
+        },
+        {
+          "type": "p",
+          "text": "• <ruby>午後<rt>ごご</rt></ruby>の<ruby>小腹満<rt>こばらみ</rt></ruby>たしに"
+        },
+        {
+          "type": "p",
+          "text": "• <ruby>家<rt>いえ</rt></ruby>でちょっと<ruby>甘<rt>あま</rt></ruby>いものが<ruby>欲<rt>ほ</rt></ruby>しい<ruby>時<rt>とき</rt></ruby>に"
+        },
+        {
+          "type": "p",
+          "text": "• お<ruby>子<rt>こ</rt></ruby>さんと<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>食<rt>た</rt></ruby>べたい<ruby>時<rt>とき</rt></ruby>に"
+        },
+        {
+          "type": "p",
+          "text": "• <ruby>家<rt>いえ</rt></ruby>に<ruby>置<rt>お</rt></ruby>いておくおやつとして"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>言<rt>い</rt></ruby>い<ruby>方<rt>かた</rt></ruby>としては、"
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>午後<rt>ごご</rt></ruby>ちょっと<ruby>口<rt>くち</rt></ruby>さみしい<ruby>時<rt>とき</rt></ruby>にちょうどいいです。」"
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>家<rt>いえ</rt></ruby>に<ruby>置<rt>お</rt></ruby>いておくと、<ruby>何<rt>なに</rt></ruby>か<ruby>食<rt>た</rt></ruby>べたい<ruby>時<rt>とき</rt></ruby>に<ruby>助<rt>たす</rt></ruby>かるタイプのおやつです。」 「<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>食<rt>た</rt></ruby>べやすいので、つい<ruby>手<rt>て</rt></ruby>が<ruby>伸<rt>の</rt></ruby>びる<ruby>感<rt>かん</rt></ruby>じです。」"
+        },
+        {
+          "type": "p",
+          "text": "这样说会更像<ruby>日本<rt>にほん</rt></ruby>本土<ruby>直<rt>なお</rt></ruby>播。"
+        },
+        {
+          "type": "lead",
+          "text": "ライブ<ruby>中<rt>ちゅう</rt></ruby>にそのまま<ruby>使<rt>つか</rt></ruby>える<ruby>言<rt>い</rt></ruby>い<ruby>方<rt>かた</rt></ruby>"
+        },
+        {
+          "type": "p",
+          "text": "「こちら、ソフトドライマンゴーです。"
+        },
+        {
+          "type": "p",
+          "text": "300g<ruby>入<rt>はい</rt></ruby>っているので、しっかり<ruby>量<rt>りょう</rt></ruby>もあります。」"
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>見<rt>み</rt></ruby>てください、1<ruby>枚<rt>まい</rt></ruby>ずつちゃんと<ruby>大<rt>おお</rt></ruby>きさがあります。"
+        },
+        {
+          "type": "p",
+          "text": "ぺらぺらすぎる<ruby>感<rt>かん</rt></ruby>じじゃないです。」"
+        },
+        {
+          "type": "p",
+          "text": "「こういう<ruby>感<rt>かん</rt></ruby>じで<ruby>少<rt>すこ</rt></ruby>しやわらかさもあるので、"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>硬<rt>かた</rt></ruby>すぎるドライフルーツが<ruby>苦手<rt>にがて</rt></ruby>な<ruby>方<rt>かた</rt></ruby>にも<ruby>食<rt>た</rt></ruby>べやすいと<ruby>思<rt>おも</rt></ruby>います。」"
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>甘<rt>あま</rt></ruby>みはちゃんとあるんですけど、<ruby>重<rt>おも</rt></ruby>たすぎる<ruby>感<rt>かん</rt></ruby>じではないので、 ちょっと<ruby>何<rt>なに</rt></ruby>か<ruby>食<rt>た</rt></ruby>べたい<ruby>時<rt>とき</rt></ruby>にちょうどいいです。」"
+        },
+        {
+          "type": "p",
+          "text": "「これ、<ruby>仕事<rt>しごと</rt></ruby>の<ruby>合間<rt>あいま</rt></ruby>とか、<ruby>家<rt>いえ</rt></ruby>でちょっとつまみたい<ruby>時<rt>とき</rt></ruby>にもいいですね。」"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-14"
+}

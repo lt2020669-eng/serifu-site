@@ -1,0 +1,99 @@
+{
+  "updatedAt": "2026-07-14",
+  "scripts": [
+    {
+      "id": "ajitsuke-nori-200",
+      "title": "味付け海苔 8切200枚",
+      "productName": "日本橋いなば園 有明産 味付け海苔 8切200枚",
+      "industry": "food",
+      "industryLabel": "食品",
+      "subcategory": "nori",
+      "subcategoryLabel": "海苔・乾物",
+      "scriptType": "product-sheet",
+      "tags": [
+        "送料無料",
+        "大容量",
+        "朝食",
+        "有明産"
+      ],
+      "image": "assets/images/ajitsuke-nori-200.png",
+      "contentPath": "../content/scripts/ajitsuke-nori-200.json",
+      "updatedAt": "2026-07-14"
+    },
+    {
+      "id": "fruit-konnyaku-jelly",
+      "title": "フルーツこんにゃくゼリー",
+      "productName": "フルーツこんにゃくゼリー（4種の味・個包装）",
+      "industry": "food",
+      "industryLabel": "食品",
+      "subcategory": "jelly",
+      "subcategoryLabel": "ゼリー・果冻",
+      "scriptType": "full-script",
+      "tags": [
+        "こんにゃくゼリー",
+        "個包装",
+        "低カロリー",
+        "4種の味"
+      ],
+      "image": "assets/images/fruit-konnyaku-jelly.png",
+      "contentPath": "../content/scripts/fruit-konnyaku-jelly.json",
+      "updatedAt": "2026-07-14"
+    },
+    {
+      "id": "maedaya-fried-potato-usujio",
+      "title": "前田家 訳ありフライドポテトスナック うす塩",
+      "productName": "前田家 訳ありフライドポテトスナック うす塩",
+      "industry": "food",
+      "industryLabel": "食品",
+      "subcategory": "snack",
+      "subcategoryLabel": "スナック菓子",
+      "scriptType": "full-script",
+      "tags": [
+        "訳あり",
+        "うす塩",
+        "スナック",
+        "じゃがいも"
+      ],
+      "image": "assets/images/maedaya-fried-potato-usujio.png",
+      "contentPath": "../content/scripts/maedaya-fried-potato-usujio.json",
+      "updatedAt": "2026-07-14"
+    },
+    {
+      "id": "mutenka-hoshiimo-mega",
+      "title": "無添加・大容量タイプの干し芋",
+      "productName": "無添加メガ盛り干し芋（切り落としタイプ）",
+      "industry": "food",
+      "industryLabel": "食品",
+      "subcategory": "dried-fruit",
+      "subcategoryLabel": "ドライフルーツ・干物",
+      "scriptType": "full-script",
+      "tags": [
+        "無添加",
+        "大容量",
+        "干し芋",
+        "切り落とし"
+      ],
+      "image": "assets/images/mutenka-hoshiimo-mega.png",
+      "contentPath": "../content/scripts/mutenka-hoshiimo-mega.json",
+      "updatedAt": "2026-07-14"
+    },
+    {
+      "id": "soft-dried-mango-300",
+      "title": "ソフトドライマンゴー 300g",
+      "productName": "ソフトドライマンゴー 300g",
+      "industry": "food",
+      "industryLabel": "食品",
+      "subcategory": "dried-fruit",
+      "subcategoryLabel": "ドライフルーツ・干物",
+      "scriptType": "intro-points",
+      "tags": [
+        "ドライマンゴー",
+        "300g",
+        "おやつ"
+      ],
+      "image": "assets/images/soft-dried-mango-300.png",
+      "contentPath": "../content/scripts/soft-dried-mango-300.json",
+      "updatedAt": "2026-07-14"
+    }
+  ]
+}

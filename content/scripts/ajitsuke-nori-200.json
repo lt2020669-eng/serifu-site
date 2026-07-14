@@ -1,0 +1,747 @@
+{
+  "id": "ajitsuke-nori-200",
+  "title": "味付け海苔 8切200枚",
+  "productName": "日本橋いなば園 有明産 味付け海苔 8切200枚",
+  "category": {
+    "industry": "food",
+    "industryLabel": "食品",
+    "subcategory": "nori",
+    "subcategoryLabel": "海苔・乾物"
+  },
+  "scriptType": "product-sheet",
+  "tags": [
+    "送料無料",
+    "大容量",
+    "朝食",
+    "有明産"
+  ],
+  "image": "assets/images/ajitsuke-nori-200.png",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "<ruby>商品名<rt>しょうひんめい</rt></ruby>：<ruby>日本橋<rt>にほんばし</rt></ruby>いなば<ruby>園<rt>えん</rt></ruby> <ruby>有明産<rt>ありあけさん</rt></ruby> <ruby>味付<rt>あじつ</rt></ruby>け<ruby>海苔<rt>のり</rt></ruby> 8<ruby>切<rt>ぎり</rt></ruby>200<ruby>枚<rt>まい</rt></ruby>",
+      "level": 2,
+      "blocks": []
+    },
+    {
+      "id": "s2",
+      "title": "<ruby>商品<rt>しょうひん</rt></ruby>の<ruby>特徴<rt>とくちょう</rt></ruby>",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "<ruby>有明産<rt>ありあけさん</rt></ruby>の<ruby>海苔<rt>のり</rt></ruby>を<ruby>使用<rt>しよう</rt></ruby>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>有明産<rt>ありあけさん</rt></ruby>の<ruby>海苔<rt>のり</rt></ruby>を<ruby>使用<rt>しよう</rt></ruby>した<ruby>味付<rt>あじつ</rt></ruby>け<ruby>海苔<rt>のり</rt></ruby>です。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>普段<rt>ふだん</rt></ruby>から<ruby>海苔<rt>のり</rt></ruby>をよく<ruby>食<rt>た</rt></ruby>べる<ruby>方<rt>かた</rt></ruby>、<ruby>産地<rt>さんち</rt></ruby>を<ruby>気<rt>き</rt></ruby>にする<ruby>方<rt>かた</rt></ruby>にも<ruby>紹介<rt>しょうかい</rt></ruby>しやすい<ruby>商品<rt>しょうひん</rt></ruby>です。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>使<rt>つか</rt></ruby>える<ruby>言<rt>い</rt></ruby>い<ruby>回<rt>まわ</rt></ruby>し："
+        },
+        {
+          "type": "p",
+          "text": "「こちらは<ruby>有明産<rt>ありあけさん</rt></ruby>の<ruby>海苔<rt>のり</rt></ruby>を<ruby>使用<rt>しよう</rt></ruby>した<ruby>味付<rt>あじつ</rt></ruby>け<ruby>海苔<rt>のり</rt></ruby>です」"
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>毎日<rt>まいにち</rt></ruby>のご<ruby>飯<rt>はん</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせやすい<ruby>海苔<rt>のり</rt></ruby>です」"
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>海苔<rt>のり</rt></ruby>をよく<ruby>食<rt>た</rt></ruby>べるご<ruby>家庭<rt>かてい</rt></ruby>におすすめです」"
+        },
+        {
+          "type": "h3",
+          "text": "<ruby>味付<rt>あじつ</rt></ruby>け<ruby>海苔<rt>のり</rt></ruby>"
+        },
+        {
+          "type": "p",
+          "text": "こちらは<ruby>味付<rt>あじつ</rt></ruby>けタイプなので、そのまま<ruby>食<rt>た</rt></ruby>べても、ご<ruby>飯<rt>はん</rt></ruby>に<ruby>巻<rt>ま</rt></ruby>いても<ruby>美味<rt>おい</rt></ruby>しく<ruby>食<rt>た</rt></ruby>べられま す。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>白<rt>しろ</rt></ruby>いご<ruby>飯<rt>はん</rt></ruby>、おにぎり、お<ruby>弁当<rt>べんとう</rt></ruby>、<ruby>卵<rt>たまご</rt></ruby>かけご<ruby>飯<rt>はん</rt></ruby>などに<ruby>合<rt>あ</rt></ruby>わせやすいです。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>使<rt>つか</rt></ruby>える<ruby>言<rt>い</rt></ruby>い<ruby>回<rt>まわ</rt></ruby>し："
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>味付<rt>あじつ</rt></ruby>けタイプなので、そのままでも<ruby>美味<rt>おい</rt></ruby>しく<ruby>食<rt>た</rt></ruby>べられます」"
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>白<rt>しろ</rt></ruby>いご<ruby>飯<rt>はん</rt></ruby>との<ruby>相性<rt>あいしょう</rt></ruby>がとても<ruby>良<rt>よ</rt></ruby>いです」"
+        },
+        {
+          "type": "p",
+          "text": "「おにぎりにも、お<ruby>弁当<rt>べんとう</rt></ruby>にも<ruby>使<rt>つか</rt></ruby>いやすいです」"
+        },
+        {
+          "type": "h3",
+          "text": "8<ruby>切<rt>ぎり</rt></ruby>サイズ"
+        },
+        {
+          "type": "p",
+          "text": "8<ruby>切<rt>ぎり</rt></ruby>サイズなので、<ruby>大<rt>おお</rt></ruby>きすぎず<ruby>小<rt>ちい</rt></ruby>さすぎず、<ruby>日常使<rt>にちじょうづか</rt></ruby>いしやすいサイズです。 <ruby>子<rt>こ</rt></ruby>どもでも<ruby>食<rt>た</rt></ruby>べやすく、おにぎりやお<ruby>弁当<rt>べんとう</rt></ruby>にもそのまま<ruby>使<rt>つか</rt></ruby>えます。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>使<rt>つか</rt></ruby>える<ruby>言<rt>い</rt></ruby>い<ruby>回<rt>まわ</rt></ruby>し："
+        },
+        {
+          "type": "p",
+          "text": "「8<ruby>切<rt>ぎり</rt></ruby>サイズなので、<ruby>毎日<rt>まいにち</rt></ruby>のご<ruby>飯<rt>はん</rt></ruby>に<ruby>使<rt>つか</rt></ruby>いやすいです」"
+        },
+        {
+          "type": "p",
+          "text": "「お<ruby>子<rt>こ</rt></ruby>さまでも<ruby>食<rt>た</rt></ruby>べやすいサイズです」"
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>切<rt>き</rt></ruby>らずにそのまま<ruby>使<rt>つか</rt></ruby>いやすいです」"
+        },
+        {
+          "type": "h3",
+          "text": "200<ruby>枚入<rt>まいい</rt></ruby>りの<ruby>大容量<rt>だいようりょう</rt></ruby>"
+        },
+        {
+          "type": "p",
+          "text": "たっぷり200<ruby>枚入<rt>まいい</rt></ruby>りです。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>家族<rt>かぞく</rt></ruby>で<ruby>食<rt>た</rt></ruby>べると<ruby>海苔<rt>のり</rt></ruby>はすぐなくなるので、<ruby>毎日使<rt>まいにちづか</rt></ruby>うご<ruby>家庭<rt>かてい</rt></ruby>には<ruby>大容量<rt>だいようりょう</rt></ruby>が<ruby>便利<rt>べんり</rt></ruby>です。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>使<rt>つか</rt></ruby>える<ruby>言<rt>い</rt></ruby>い<ruby>回<rt>まわ</rt></ruby>し："
+        },
+        {
+          "type": "p",
+          "text": "「たっぷり200<ruby>枚入<rt>まいい</rt></ruby>りです」"
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>毎日使<rt>まいにちづか</rt></ruby>いやすい<ruby>大容量<rt>だいようりょう</rt></ruby>タイプです」"
+        },
+        {
+          "type": "p",
+          "text": "「ご<ruby>家族<rt>かぞく</rt></ruby>で<ruby>使<rt>つか</rt></ruby>う<ruby>方<rt>かた</rt></ruby>にもおすすめです」"
+        },
+        {
+          "type": "h3",
+          "text": "<ruby>送料無料<rt>そうりょうむりょう</rt></ruby>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>送料無料<rt>そうりょうむりょう</rt></ruby>なので、<ruby>送料<rt>そうりょう</rt></ruby>を<ruby>気<rt>き</rt></ruby>にせず<ruby>購入<rt>こうにゅう</rt></ruby>しやすいです。"
+        },
+        {
+          "type": "p",
+          "text": "ライブ<ruby>中<rt>ちゅう</rt></ruby>は「<ruby>送料込<rt>そうりょうこ</rt></ruby>み」という<ruby>表現<rt>ひょうげん</rt></ruby>を<ruby>何度<rt>なんど</rt></ruby>も<ruby>入<rt>はい</rt></ruby>れると<ruby>伝<rt>つた</rt></ruby>わりやすいです。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>使<rt>つか</rt></ruby>える<ruby>言<rt>い</rt></ruby>い<ruby>回<rt>まわ</rt></ruby>し："
+        },
+        {
+          "type": "p",
+          "text": "「しかも<ruby>送料無料<rt>そうりょうむりょう</rt></ruby>です」"
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>送料込<rt>そうりょうこ</rt></ruby>みで1,380<ruby>円<rt>えん</rt></ruby>です」"
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>追加<rt>ついか</rt></ruby>の<ruby>送料<rt>そうりょう</rt></ruby>を<ruby>気<rt>き</rt></ruby>にせず<ruby>買<rt>か</rt></ruby>えます」"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "<ruby>使用<rt>しよう</rt></ruby>シーン",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "<ruby>朝<rt>あさ</rt></ruby>ごはん"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>朝<rt>あさ</rt></ruby>の<ruby>白<rt>しろ</rt></ruby>いご<ruby>飯<rt>はん</rt></ruby>に<ruby>海苔<rt>のり</rt></ruby>を<ruby>巻<rt>ま</rt></ruby>くだけで、<ruby>簡単<rt>かんたん</rt></ruby>に<ruby>食<rt>た</rt></ruby>べられます。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>忙<rt>いそが</rt></ruby>しい<ruby>朝<rt>あさ</rt></ruby>でも<ruby>出<rt>だ</rt></ruby>しやすく、<ruby>家族<rt>かぞく</rt></ruby>の<ruby>朝食<rt>ちょうしょく</rt></ruby>に<ruby>使<rt>つか</rt></ruby>いやすいです。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>使<rt>つか</rt></ruby>える<ruby>言<rt>い</rt></ruby>い<ruby>回<rt>まわ</rt></ruby>し："
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>朝<rt>あさ</rt></ruby>ごはんに、<ruby>白<rt>しろ</rt></ruby>いご<ruby>飯<rt>はん</rt></ruby>を<ruby>巻<rt>ま</rt></ruby>くだけで<ruby>美味<rt>おい</rt></ruby>しく<ruby>食<rt>た</rt></ruby>べられます」"
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>忙<rt>いそが</rt></ruby>しい<ruby>朝<rt>あさ</rt></ruby>にもすぐ<ruby>使<rt>つか</rt></ruby>えます」"
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>朝食用<rt>ちょうしょくよう</rt></ruby>に<ruby>家<rt>いえ</rt></ruby>に<ruby>置<rt>お</rt></ruby>いておくと<ruby>便利<rt>べんり</rt></ruby>です」"
+        },
+        {
+          "type": "h3",
+          "text": "お<ruby>弁当<rt>べんとう</rt></ruby>"
+        },
+        {
+          "type": "p",
+          "text": "おにぎりに<ruby>巻<rt>ま</rt></ruby>いたり、ご<ruby>飯<rt>はん</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>にのせたりできます。"
+        },
+        {
+          "type": "p",
+          "text": "8<ruby>切<rt>ぎり</rt></ruby>サイズなので、<ruby>朝<rt>あさ</rt></ruby>のお<ruby>弁当作<rt>べんとうづく</rt></ruby>りにも<ruby>使<rt>つか</rt></ruby>いやすいです。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>使<rt>つか</rt></ruby>える<ruby>言<rt>い</rt></ruby>い<ruby>回<rt>まわ</rt></ruby>し："
+        },
+        {
+          "type": "p",
+          "text": "「お<ruby>弁当作<rt>べんとうづく</rt></ruby>りにも<ruby>便利<rt>べんり</rt></ruby>です」"
+        },
+        {
+          "type": "p",
+          "text": "「おにぎりにそのまま<ruby>使<rt>つか</rt></ruby>いやすいです」"
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>忙<rt>いそが</rt></ruby>しい<ruby>朝<rt>あさ</rt></ruby>の<ruby>時短<rt>じたん</rt></ruby>にもなります」"
+        },
+        {
+          "type": "h3",
+          "text": "<ruby>子<rt>こ</rt></ruby>どものご<ruby>飯<rt>はん</rt></ruby>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>白<rt>しろ</rt></ruby>いご<ruby>飯<rt>はん</rt></ruby>だけだと<ruby>進<rt>すす</rt></ruby>みにくい<ruby>時<rt>とき</rt></ruby>も、<ruby>味付<rt>あじつ</rt></ruby>け<ruby>海苔<rt>のり</rt></ruby>で<ruby>巻<rt>ま</rt></ruby>くと<ruby>食<rt>た</rt></ruby>べやすくなります。 <ruby>小<rt>ちい</rt></ruby>さめの8<ruby>切<rt>ぎり</rt></ruby>サイズなので、<ruby>子<rt>こ</rt></ruby>どもにも<ruby>出<rt>だ</rt></ruby>しやすいです。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>使<rt>つか</rt></ruby>える<ruby>言<rt>い</rt></ruby>い<ruby>回<rt>まわ</rt></ruby>し："
+        },
+        {
+          "type": "p",
+          "text": "「お<ruby>子<rt>こ</rt></ruby>さまのご<ruby>飯<rt>はん</rt></ruby>にも<ruby>使<rt>つか</rt></ruby>いやすいです」"
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>白<rt>しろ</rt></ruby>いご<ruby>飯<rt>はん</rt></ruby>を<ruby>海苔<rt>のり</rt></ruby>で<ruby>巻<rt>ま</rt></ruby>くだけで<ruby>食<rt>た</rt></ruby>べやすくなります」"
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>小<rt>ちい</rt></ruby>さめサイズで<ruby>手<rt>て</rt></ruby>に<ruby>取<rt>と</rt></ruby>りやすいです」"
+        },
+        {
+          "type": "h3",
+          "text": "おにぎり"
+        },
+        {
+          "type": "p",
+          "text": "ミニおにぎり、<ruby>朝<rt>あさ</rt></ruby>ごはん<ruby>用<rt>よう</rt></ruby>のおにぎり、お<ruby>弁当用<rt>べんとうよう</rt></ruby>のおにぎりに<ruby>使<rt>つか</rt></ruby>いやすいです。 <ruby>味付<rt>あじつ</rt></ruby>け<ruby>海苔<rt>のり</rt></ruby>なので、<ruby>具材<rt>ぐざい</rt></ruby>がシンプルでも<ruby>美味<rt>おい</rt></ruby>しく<ruby>食<rt>た</rt></ruby>べられます。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>使<rt>つか</rt></ruby>える<ruby>言<rt>い</rt></ruby>い<ruby>回<rt>まわ</rt></ruby>し："
+        },
+        {
+          "type": "p",
+          "text": "「おにぎりにぴったりです」"
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>味付<rt>あじつ</rt></ruby>け<ruby>海苔<rt>のり</rt></ruby>なので、シンプルなおにぎりにも<ruby>合<rt>あ</rt></ruby>います」"
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>朝<rt>あさ</rt></ruby>ごはん<ruby>用<rt>よう</rt></ruby>の<ruby>小<rt>ちい</rt></ruby>さなおにぎりにも<ruby>使<rt>つか</rt></ruby>いやすいです」"
+        },
+        {
+          "type": "h3",
+          "text": "<ruby>麺類<rt>めんるい</rt></ruby>のトッピング"
+        },
+        {
+          "type": "p",
+          "text": "うどん、そば、ラーメンなどにのせても<ruby>使<rt>つか</rt></ruby>えます。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>少<rt>すこ</rt></ruby>し<ruby>足<rt>た</rt></ruby>すだけで、<ruby>海苔<rt>のり</rt></ruby>の<ruby>香<rt>こう</rt></ruby>りが<ruby>加<rt>くわ</rt></ruby>わります。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>使<rt>つか</rt></ruby>える<ruby>言<rt>い</rt></ruby>い<ruby>回<rt>まわ</rt></ruby>し："
+        },
+        {
+          "type": "p",
+          "text": "「ご<ruby>飯<rt>はん</rt></ruby>だけではなく、うどんやラーメンにも<ruby>使<rt>つか</rt></ruby>えます」"
+        },
+        {
+          "type": "p",
+          "text": "「のせるだけで<ruby>風味<rt>ふうみ</rt></ruby>が<ruby>良<rt>よ</rt></ruby>くなります」"
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>家<rt>いえ</rt></ruby>にあるといろいろな<ruby>料理<rt>りょうり</rt></ruby>に<ruby>使<rt>つか</rt></ruby>えます」"
+        },
+        {
+          "type": "h3",
+          "text": "そのまま<ruby>軽<rt>かる</rt></ruby>く<ruby>食<rt>た</rt></ruby>べる"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>味付<rt>あじつ</rt></ruby>けタイプなので、そのままでも<ruby>食<rt>た</rt></ruby>べられます。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>小腹<rt>こばら</rt></ruby>が<ruby>空<rt>す</rt></ruby>いた<ruby>時<rt>とき</rt></ruby>や、ちょっと<ruby>口<rt>くち</rt></ruby>さみしい<ruby>時<rt>とき</rt></ruby>にも<ruby>使<rt>つか</rt></ruby>いやすいです。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>使<rt>つか</rt></ruby>える<ruby>言<rt>い</rt></ruby>い<ruby>回<rt>まわ</rt></ruby>し："
+        },
+        {
+          "type": "p",
+          "text": "「そのまま<ruby>軽<rt>かる</rt></ruby>く<ruby>食<rt>た</rt></ruby>べても<ruby>美味<rt>おい</rt></ruby>しいです」"
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>小腹<rt>こばら</rt></ruby>が<ruby>空<rt>す</rt></ruby>いた<ruby>時<rt>とき</rt></ruby>にもおすすめです」"
+        },
+        {
+          "type": "p",
+          "text": "「おやつ<ruby>感覚<rt>かんかく</rt></ruby>でも<ruby>食<rt>た</rt></ruby>べられます」"
+        },
+        {
+          "type": "p",
+          "text": "<strong>お<ruby>客様<rt>きゃくさま</rt></ruby>のお<ruby>悩<rt>なや</rt></ruby>み</strong>・<strong>ニーズ </strong>"
+        },
+        {
+          "type": "h3",
+          "text": "<ruby>小<rt>ちい</rt></ruby>さいパックの<ruby>海苔<rt>のり</rt></ruby>はすぐになくなる"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>海苔<rt>のり</rt></ruby>をよく<ruby>食<rt>た</rt></ruby>べるご<ruby>家庭<rt>かてい</rt></ruby>だと、<ruby>小<rt>ちい</rt></ruby>さいパックはすぐになくなります。 こちらは200<ruby>枚入<rt>まいい</rt></ruby>りなので、<ruby>毎日使<rt>まいにちづか</rt></ruby>う<ruby>方<rt>かた</rt></ruby>に<ruby>向<rt>む</rt></ruby>いています。"
+        },
+        {
+          "type": "p",
+          "text": "ライブでの<ruby>言<rt>い</rt></ruby>い<ruby>方<rt>かた</rt></ruby>："
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>小<rt>ちい</rt></ruby>さいパックの<ruby>海苔<rt>のり</rt></ruby>って、<ruby>家族<rt>かぞく</rt></ruby>で<ruby>食<rt>た</rt></ruby>べるとすぐなくなりますよね。こちらは200<ruby>枚入<rt>まいい</rt></ruby>り なので、<ruby>毎日使<rt>まいにちづか</rt></ruby>う<ruby>方<rt>かた</rt></ruby>におすすめです」"
+        },
+        {
+          "type": "h3",
+          "text": "<ruby>朝<rt>あさ</rt></ruby>ごはんの<ruby>準備<rt>じゅんび</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>にしたい"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>朝<rt>あさ</rt></ruby>は<ruby>時間<rt>じかん</rt></ruby>がなく、おかずをたくさん<ruby>用意<rt>ようい</rt></ruby>するのが<ruby>大変<rt>たいへん</rt></ruby>です。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>味付<rt>あじつ</rt></ruby>け<ruby>海苔<rt>のり</rt></ruby>があれば、ご<ruby>飯<rt>はん</rt></ruby>に<ruby>巻<rt>ま</rt></ruby>くだけで<ruby>食<rt>た</rt></ruby>べやすくなります。"
+        },
+        {
+          "type": "p",
+          "text": "ライブでの<ruby>言<rt>い</rt></ruby>い<ruby>方<rt>かた</rt></ruby>："
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>忙<rt>いそが</rt></ruby>しい<ruby>朝<rt>あさ</rt></ruby>でも、これがあると<ruby>白<rt>しろ</rt></ruby>いご<ruby>飯<rt>はん</rt></ruby>に<ruby>巻<rt>ま</rt></ruby>くだけなので<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>便利<rt>べんり</rt></ruby>です」"
+        },
+        {
+          "type": "h3",
+          "text": "<ruby>子<rt>こ</rt></ruby>どもが<ruby>白<rt>しろ</rt></ruby>いご<ruby>飯<rt>はん</rt></ruby>をあまり<ruby>食<rt>た</rt></ruby>べない"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>白<rt>しろ</rt></ruby>いご<ruby>飯<rt>はん</rt></ruby>だけだと<ruby>進<rt>すす</rt></ruby>みにくい<ruby>子<rt>こ</rt></ruby>どもでも、<ruby>海苔<rt>のり</rt></ruby>で<ruby>巻<rt>ま</rt></ruby>くと<ruby>食<rt>た</rt></ruby>べやすくなります。 <ruby>味付<rt>あじつ</rt></ruby>けタイプなので、ご<ruby>飯<rt>はん</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせやすいです。"
+        },
+        {
+          "type": "p",
+          "text": "ライブでの<ruby>言<rt>い</rt></ruby>い<ruby>方<rt>かた</rt></ruby>："
+        },
+        {
+          "type": "p",
+          "text": "「お<ruby>子<rt>こ</rt></ruby>さまが<ruby>白<rt>しろ</rt></ruby>いご<ruby>飯<rt>はん</rt></ruby>をあまり<ruby>食<rt>た</rt></ruby>べない<ruby>時<rt>とき</rt></ruby>も、<ruby>海苔<rt>のり</rt></ruby>で<ruby>巻<rt>ま</rt></ruby>いてあげると<ruby>食<rt>た</rt></ruby>べやすいです」 <strong>お<ruby>弁当作<rt>べんとうづく</rt></ruby>りに<ruby>時間<rt>じかん</rt></ruby>をかけたくない</strong>"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>毎朝<rt>まいあさ</rt></ruby>のお<ruby>弁当作<rt>べんとうづく</rt></ruby>りは<ruby>手間<rt>てま</rt></ruby>がかかります。"
+        },
+        {
+          "type": "p",
+          "text": "8<ruby>切<rt>ぎり</rt></ruby>サイズなら、そのまま<ruby>使<rt>つか</rt></ruby>いやすく、<ruby>時短<rt>じたん</rt></ruby>にもつながります。"
+        },
+        {
+          "type": "p",
+          "text": "ライブでの<ruby>言<rt>い</rt></ruby>い<ruby>方<rt>かた</rt></ruby>："
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>毎朝<rt>まいあさ</rt></ruby>のお<ruby>弁当作<rt>べんとうづく</rt></ruby>りを<ruby>少<rt>すこ</rt></ruby>しでも<ruby>楽<rt>たの</rt></ruby>にしたい<ruby>方<rt>かた</rt></ruby>におすすめです」"
+        },
+        {
+          "type": "h3",
+          "text": "ご<ruby>飯<rt>はん</rt></ruby>のお<ruby>供<rt>とも</rt></ruby>を<ruby>常備<rt>じょうび</rt></ruby>したい"
+        },
+        {
+          "type": "p",
+          "text": "ご<ruby>飯<rt>はん</rt></ruby>の<ruby>時<rt>とき</rt></ruby>に、あと<ruby>一品<rt>いっぴん</rt></ruby>ほしい<ruby>時<rt>とき</rt></ruby>があります。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>海苔<rt>のり</rt></ruby>があると、<ruby>白<rt>しろ</rt></ruby>いご<ruby>飯<rt>はん</rt></ruby>にも、<ruby>卵<rt>たまご</rt></ruby>かけご<ruby>飯<rt>はん</rt></ruby>にも、<ruby>麺類<rt>めんるい</rt></ruby>にも<ruby>使<rt>つか</rt></ruby>えます。"
+        },
+        {
+          "type": "p",
+          "text": "ライブでの<ruby>言<rt>い</rt></ruby>い<ruby>方<rt>かた</rt></ruby>："
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>家<rt>いえ</rt></ruby>に<ruby>一<rt>ひと</rt></ruby>つ<ruby>置<rt>お</rt></ruby>いておくと、あと<ruby>一品<rt>いっぴん</rt></ruby>ほしい<ruby>時<rt>とき</rt></ruby>に<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>便利<rt>べんり</rt></ruby>です」"
+        },
+        {
+          "type": "h3",
+          "text": "<ruby>送料<rt>そうりょう</rt></ruby>が<ruby>気<rt>き</rt></ruby>になる"
+        },
+        {
+          "type": "p",
+          "text": "ネットで<ruby>食品<rt>しょくひん</rt></ruby>を<ruby>買<rt>か</rt></ruby>う<ruby>時<rt>とき</rt></ruby>、<ruby>送料<rt>そうりょう</rt></ruby>が<ruby>気<rt>き</rt></ruby>になる<ruby>方<rt>かた</rt></ruby>は<ruby>多<rt>おお</rt></ruby>いです。"
+        },
+        {
+          "type": "p",
+          "text": "こちらは<ruby>送料無料<rt>そうりょうむりょう</rt></ruby>なので、<ruby>購入<rt>こうにゅう</rt></ruby>しやすいです。"
+        },
+        {
+          "type": "p",
+          "text": "ライブでの<ruby>言<rt>い</rt></ruby>い<ruby>方<rt>かた</rt></ruby>："
+        },
+        {
+          "type": "p",
+          "text": "「しかも<ruby>送料無料<rt>そうりょうむりょう</rt></ruby>です。<ruby>送料込<rt>そうりょうこ</rt></ruby>みで1,380<ruby>円<rt>えん</rt></ruby>なので、<ruby>買<rt>か</rt></ruby>いやすいです」"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "title": "<ruby>商品<rt>しょうひん</rt></ruby>の<ruby>見<rt>み</rt></ruby>せ<ruby>方<rt>かた</rt></ruby>",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "<ruby>家庭<rt>かてい</rt></ruby>の<ruby>常備品<rt>じょうびひん</rt></ruby>として<ruby>見<rt>み</rt></ruby>せる"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>時<rt>とき</rt></ruby>だけ<ruby>使<rt>つか</rt></ruby>う<ruby>商品<rt>しょうひん</rt></ruby>ではなく、<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>食卓<rt>しょくたく</rt></ruby>に<ruby>使<rt>つか</rt></ruby>える<ruby>商品<rt>しょうひん</rt></ruby>として<ruby>紹介<rt>しょうかい</rt></ruby>します。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>使<rt>つか</rt></ruby>える<ruby>言<rt>い</rt></ruby>い<ruby>回<rt>まわ</rt></ruby>し："
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>食卓<rt>しょくたく</rt></ruby>に<ruby>使<rt>つか</rt></ruby>いやすいです」"
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>家<rt>いえ</rt></ruby>に<ruby>一<rt>ひと</rt></ruby>つあると<ruby>便利<rt>べんり</rt></ruby>です」"
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>朝<rt>あさ</rt></ruby>ごはん、お<ruby>弁当<rt>べんとう</rt></ruby>、<ruby>夜<rt>よる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>に<ruby>使<rt>つか</rt></ruby>えます」"
+        },
+        {
+          "type": "h3",
+          "text": "<ruby>子<rt>こ</rt></ruby>どもにも<ruby>食<rt>た</rt></ruby>べやすい<ruby>商品<rt>しょうひん</rt></ruby>として<ruby>見<rt>み</rt></ruby>せる"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>子<rt>こ</rt></ruby>どものご<ruby>飯<rt>はん</rt></ruby>、おにぎり、<ruby>軽<rt>かる</rt></ruby>いおやつとして<ruby>使<rt>つか</rt></ruby>いやすい<ruby>点<rt>てん</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>えます。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>使<rt>つか</rt></ruby>える<ruby>言<rt>い</rt></ruby>い<ruby>回<rt>まわ</rt></ruby>し："
+        },
+        {
+          "type": "p",
+          "text": "「お<ruby>子<rt>こ</rt></ruby>さまにも<ruby>食<rt>た</rt></ruby>べやすい8<ruby>切<rt>ぎり</rt></ruby>サイズです」"
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>小<rt>ちい</rt></ruby>さめサイズなので、<ruby>手<rt>て</rt></ruby>に<ruby>持<rt>も</rt></ruby>って<ruby>食<rt>た</rt></ruby>べやすいです」"
+        },
+        {
+          "type": "p",
+          "text": "「お<ruby>子<rt>こ</rt></ruby>さまの<ruby>朝<rt>あさ</rt></ruby>ごはんにもおすすめです」"
+        },
+        {
+          "type": "h3",
+          "text": "<ruby>忙<rt>いそが</rt></ruby>しい<ruby>朝<rt>あさ</rt></ruby>に<ruby>便利<rt>べんり</rt></ruby>な<ruby>商品<rt>しょうひん</rt></ruby>として<ruby>見<rt>み</rt></ruby>せる"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>朝食<rt>ちょうしょく</rt></ruby>やお<ruby>弁当作<rt>べんとうづく</rt></ruby>りの<ruby>手間<rt>てま</rt></ruby>を<ruby>減<rt>へ</rt></ruby>らせる<ruby>商品<rt>しょうひん</rt></ruby>として<ruby>紹介<rt>しょうかい</rt></ruby>します。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>使<rt>つか</rt></ruby>える<ruby>言<rt>い</rt></ruby>い<ruby>回<rt>まわ</rt></ruby>し："
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>忙<rt>いそが</rt></ruby>しい<ruby>朝<rt>あさ</rt></ruby>に<ruby>便利<rt>べんり</rt></ruby>です」"
+        },
+        {
+          "type": "p",
+          "text": "「ご<ruby>飯<rt>はん</rt></ruby>に<ruby>巻<rt>ま</rt></ruby>くだけで<ruby>簡単<rt>かんたん</rt></ruby>です」"
+        },
+        {
+          "type": "p",
+          "text": "「お<ruby>弁当作<rt>べんとうづく</rt></ruby>りにも<ruby>使<rt>つか</rt></ruby>いやすいです」"
+        },
+        {
+          "type": "h3",
+          "text": "<ruby>大容量<rt>だいようりょう</rt></ruby>で<ruby>使<rt>つか</rt></ruby>いやすい<ruby>商品<rt>しょうひん</rt></ruby>として<ruby>見<rt>み</rt></ruby>せる"
+        },
+        {
+          "type": "p",
+          "text": "200<ruby>枚入<rt>まいい</rt></ruby>りをしっかり<ruby>伝<rt>つた</rt></ruby>えます。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>海苔<rt>のり</rt></ruby>をよく<ruby>使<rt>つか</rt></ruby>う<ruby>家庭<rt>かてい</rt></ruby>にとって、<ruby>量<rt>りょう</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いことは<ruby>大<rt>おお</rt></ruby>きなメリットです。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>使<rt>つか</rt></ruby>える<ruby>言<rt>い</rt></ruby>い<ruby>回<rt>まわ</rt></ruby>し："
+        },
+        {
+          "type": "p",
+          "text": "「たっぷり200<ruby>枚入<rt>まいい</rt></ruby>りです」"
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>家族<rt>かぞく</rt></ruby>で<ruby>使<rt>つか</rt></ruby>いやすい<ruby>大容量<rt>だいようりょう</rt></ruby>です」"
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>毎日海苔<rt>まいにちのり</rt></ruby>を<ruby>使<rt>つか</rt></ruby>う<ruby>方<rt>かた</rt></ruby>におすすめです」"
+        },
+        {
+          "type": "h3",
+          "text": "<ruby>有明産<rt>ありあけさん</rt></ruby>で<ruby>安心感<rt>あんしんかん</rt></ruby>を<ruby>出<rt>だ</rt></ruby>す"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>産地<rt>さんち</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>えることで、<ruby>商品<rt>しょうひん</rt></ruby>の<ruby>信頼感<rt>しんらいかん</rt></ruby>を<ruby>出<rt>だ</rt></ruby>します。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>使<rt>つか</rt></ruby>える<ruby>言<rt>い</rt></ruby>い<ruby>回<rt>まわ</rt></ruby>し："
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>有明産<rt>ありあけさん</rt></ruby>の<ruby>海苔<rt>のり</rt></ruby>を<ruby>使用<rt>しよう</rt></ruby>しています」"
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>産地<rt>さんち</rt></ruby>を<ruby>気<rt>き</rt></ruby>にする<ruby>方<rt>かた</rt></ruby>にもおすすめです」"
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>毎日<rt>まいにち</rt></ruby>のご<ruby>飯<rt>はん</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせやすい<ruby>味付<rt>あじつ</rt></ruby>け<ruby>海苔<rt>のり</rt></ruby>です」"
+        },
+        {
+          "type": "h3",
+          "text": "<ruby>送料無料<rt>そうりょうむりょう</rt></ruby>を<ruby>強<rt>つよ</rt></ruby>く<ruby>伝<rt>つた</rt></ruby>える"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>送料無料<rt>そうりょうむりょう</rt></ruby>は<ruby>購入<rt>こうにゅう</rt></ruby>しやすさにつながるので、<ruby>価格<rt>かかく</rt></ruby>を<ruby>言<rt>い</rt></ruby>う<ruby>時<rt>とき</rt></ruby>は<ruby>必<rt>かなら</rt></ruby>ず<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>伝<rt>つた</rt></ruby>えます。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>使<rt>つか</rt></ruby>える<ruby>言<rt>い</rt></ruby>い<ruby>回<rt>まわ</rt></ruby>し："
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>今日<rt>きょう</rt></ruby>は<ruby>送料無料<rt>そうりょうむりょう</rt></ruby>です」"
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>送料込<rt>そうりょうこ</rt></ruby>みで1,380<ruby>円<rt>えん</rt></ruby>です」"
+        },
+        {
+          "type": "p",
+          "text": "「<ruby>追加<rt>ついか</rt></ruby>の<ruby>送料<rt>そうりょう</rt></ruby>を<ruby>気<rt>き</rt></ruby>にせず<ruby>買<rt>か</rt></ruby>えます」"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "title": "ライブ<ruby>中<rt>ちゅう</rt></ruby>に<ruby>聞<rt>き</rt></ruby>かれやすい<ruby>質問<rt>しつもん</rt></ruby>",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "h3",
+          "text": "Q：<ruby>何枚入<rt>なんまいい</rt></ruby>りですか？"
+        },
+        {
+          "type": "p",
+          "text": "A：8<ruby>切<rt>ぎり</rt></ruby>サイズが200<ruby>枚入<rt>まいい</rt></ruby>りです。<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>ごはんやお<ruby>弁当<rt>べんとう</rt></ruby>に<ruby>使<rt>つか</rt></ruby>いやすい<ruby>大容量<rt>だいようりょう</rt></ruby>です。 <strong>Q</strong><strong>：<ruby>味<rt>あじ</rt></ruby>は<ruby>付<rt>つ</rt></ruby>いていますか？ </strong>"
+        },
+        {
+          "type": "p",
+          "text": "A：はい、<ruby>味付<rt>あじつ</rt></ruby>け<ruby>海苔<rt>のり</rt></ruby>です。そのまま<ruby>食<rt>た</rt></ruby>べても、ご<ruby>飯<rt>はん</rt></ruby>に<ruby>巻<rt>ま</rt></ruby>いても<ruby>美味<rt>おい</rt></ruby>しく<ruby>食<rt>た</rt></ruby>べられます。 <strong>Q</strong><strong>：どこの<ruby>海苔<rt>のり</rt></ruby>ですか？ </strong>"
+        },
+        {
+          "type": "p",
+          "text": "A：<ruby>有明産<rt>ありあけさん</rt></ruby>の<ruby>海苔<rt>のり</rt></ruby>を<ruby>使用<rt>しよう</rt></ruby>しています。"
+        },
+        {
+          "type": "h3",
+          "text": "Q：<ruby>子<rt>こ</rt></ruby>どもでも<ruby>食<rt>た</rt></ruby>べられますか？"
+        },
+        {
+          "type": "p",
+          "text": "A：はい、8<ruby>切<rt>ぎり</rt></ruby>サイズなのでお<ruby>子<rt>こ</rt></ruby>さまでも<ruby>食<rt>た</rt></ruby>べやすいです。ご<ruby>飯<rt>はん</rt></ruby>に<ruby>巻<rt>ま</rt></ruby>いたり、おにぎりに <ruby>使<rt>つか</rt></ruby>ったりできます。"
+        },
+        {
+          "type": "h3",
+          "text": "Q：お<ruby>弁当<rt>べんとう</rt></ruby>に<ruby>使<rt>つか</rt></ruby>えますか？"
+        },
+        {
+          "type": "p",
+          "text": "A：はい、お<ruby>弁当<rt>べんとう</rt></ruby>やおにぎりに<ruby>使<rt>つか</rt></ruby>いやすいです。<ruby>忙<rt>いそが</rt></ruby>しい<ruby>朝<rt>あさ</rt></ruby>にも<ruby>便利<rt>べんり</rt></ruby>です。 <strong>Q</strong><strong>：そのまま<ruby>食<rt>た</rt></ruby>べられますか？ </strong>"
+        },
+        {
+          "type": "p",
+          "text": "A：はい、<ruby>味付<rt>あじつ</rt></ruby>けタイプなので、そのままでも<ruby>美味<rt>おい</rt></ruby>しく<ruby>食<rt>た</rt></ruby>べられます。 <strong>Q</strong><strong>：<ruby>送料<rt>そうりょう</rt></ruby>はかかりますか？ </strong>"
+        },
+        {
+          "type": "p",
+          "text": "A：<ruby>送料無料<rt>そうりょうむりょう</rt></ruby>です。<ruby>送料込<rt>そうりょうこ</rt></ruby>みで1,380<ruby>円<rt>えん</rt></ruby>です。"
+        },
+        {
+          "type": "h3",
+          "text": "Q：<ruby>何<rt>なに</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせるのがおすすめですか？"
+        },
+        {
+          "type": "p",
+          "text": "A：<ruby>白<rt>しろ</rt></ruby>いご<ruby>飯<rt>はん</rt></ruby>、おにぎり、お<ruby>弁当<rt>べんとう</rt></ruby>、<ruby>卵<rt>たまご</rt></ruby>かけご<ruby>飯<rt>はん</rt></ruby>、うどん、ラーメンなどにおすすめです。 <strong>Q</strong><strong>：<ruby>保存方法<rt>ほぞんほうほう</rt></ruby>は？ </strong>"
+        },
+        {
+          "type": "p",
+          "text": "A：<ruby>海苔<rt>のり</rt></ruby>は<ruby>湿気<rt>しっけ</rt></ruby>に<ruby>弱<rt>よわ</rt></ruby>いので、<ruby>開封後<rt>かいふうご</rt></ruby>はしっかり<ruby>閉<rt>し</rt></ruby>じて、<ruby>湿気<rt>しっけ</rt></ruby>を<ruby>避<rt>さ</rt></ruby>けて<ruby>保存<rt>ほぞん</rt></ruby>するのがおすす めです。"
+        },
+        {
+          "type": "h3",
+          "text": "Q：<ruby>焼<rt>や</rt></ruby>き<ruby>海苔<rt>のり</rt></ruby>ですか？"
+        },
+        {
+          "type": "p",
+          "text": "A：こちらは<ruby>味付<rt>あじつ</rt></ruby>け<ruby>海苔<rt>のり</rt></ruby>です。<ruby>味<rt>あじ</rt></ruby>が<ruby>付<rt>つ</rt></ruby>いているので、そのままご<ruby>飯<rt>はん</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせやすいです。 <strong>Q</strong><strong>：<ruby>辛<rt>から</rt></ruby>いですか？ </strong>"
+        },
+        {
+          "type": "p",
+          "text": "A：<ruby>辛<rt>から</rt></ruby>いタイプではありません。<ruby>食<rt>た</rt></ruby>べやすい<ruby>味付<rt>あじつ</rt></ruby>け<ruby>海苔<rt>のり</rt></ruby>です。"
+        },
+        {
+          "type": "h3",
+          "text": "Q：<ruby>家族<rt>かぞく</rt></ruby>で<ruby>食<rt>た</rt></ruby>べるとどのくらい<ruby>持<rt>も</rt></ruby>ちますか？"
+        },
+        {
+          "type": "p",
+          "text": "A：<ruby>食<rt>た</rt></ruby>べる<ruby>頻度<rt>ひんど</rt></ruby>によりますが、200<ruby>枚入<rt>まいい</rt></ruby>りなので<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>ごはんやお<ruby>弁当<rt>べんとう</rt></ruby>にしっかり<ruby>使<rt>つか</rt></ruby>え ます。"
+        },
+        {
+          "type": "h3",
+          "text": "Q：おすすめポイントは<ruby>何<rt>なん</rt></ruby>ですか？"
+        },
+        {
+          "type": "p",
+          "text": "A：<ruby>有明産<rt>ありあけさん</rt></ruby>、<ruby>味付<rt>あじつ</rt></ruby>けタイプ、8<ruby>切<rt>ぎり</rt></ruby>200<ruby>枚入<rt>まいい</rt></ruby>り、<ruby>送料無料<rt>そうりょうむりょう</rt></ruby>というところです。<ruby>毎日使<rt>まいにちづか</rt></ruby>いやすい <ruby>海苔<rt>のり</rt></ruby>です。"
+        },
+        {
+          "type": "h3",
+          "text": "Q：<ruby>今買<rt>いまか</rt></ruby>うメリットは<ruby>何<rt>なん</rt></ruby>ですか？"
+        },
+        {
+          "type": "p",
+          "text": "A：<ruby>送料無料<rt>そうりょうむりょう</rt></ruby>で、8<ruby>切<rt>ぎり</rt></ruby>200<ruby>枚入<rt>まいい</rt></ruby>りを1,380<ruby>円<rt>えん</rt></ruby>で<ruby>購入<rt>こうにゅう</rt></ruby>できます。<ruby>毎日海苔<rt>まいにちのり</rt></ruby>を<ruby>使<rt>つか</rt></ruby>う<ruby>方<rt>かた</rt></ruby>には<ruby>買<rt>か</rt></ruby>いやす い<ruby>商品<rt>しょうひん</rt></ruby>です。"
+        }
+      ]
+    },
+    {
+      "id": "s6",
+      "title": "ライブでそのまま<ruby>使<rt>つか</rt></ruby>える<ruby>短<rt>みじか</rt></ruby>い<ruby>紹介文<rt>しょうかいぶん</rt></ruby>",
+      "level": 2,
+      "blocks": [
+        {
+          "type": "p",
+          "text": "<ruby>皆<rt>みな</rt></ruby>さん、<ruby>海苔<rt>のり</rt></ruby>をよく<ruby>食<rt>た</rt></ruby>べる<ruby>方<rt>かた</rt></ruby>、これは<ruby>見<rt>み</rt></ruby>てください。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>有明産<rt>ありあけさん</rt></ruby>の<ruby>味付<rt>あじつ</rt></ruby>け<ruby>海苔<rt>のり</rt></ruby>、8<ruby>切<rt>ぎり</rt></ruby>サイズがたっぷり200<ruby>枚入<rt>まいい</rt></ruby>りです。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>朝<rt>あさ</rt></ruby>ごはんに、<ruby>白<rt>しろ</rt></ruby>いご<ruby>飯<rt>はん</rt></ruby>を<ruby>巻<rt>ま</rt></ruby>くだけ。"
+        },
+        {
+          "type": "p",
+          "text": "お<ruby>弁当<rt>べんとう</rt></ruby>に、おにぎりに、そのまま<ruby>使<rt>つか</rt></ruby>いやすいです。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>味付<rt>あじつ</rt></ruby>けタイプなので、そのまま<ruby>食<rt>た</rt></ruby>べても<ruby>美味<rt>おい</rt></ruby>しいですし、<ruby>白<rt>しろ</rt></ruby>いご<ruby>飯<rt>はん</rt></ruby>との<ruby>相性<rt>あいしょう</rt></ruby>も<ruby>良<rt>よ</rt></ruby>いです。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>小<rt>ちい</rt></ruby>さいパックの<ruby>海苔<rt>のり</rt></ruby>って、<ruby>家族<rt>かぞく</rt></ruby>で<ruby>食<rt>た</rt></ruby>べるとすぐなくなりますよね。"
+        },
+        {
+          "type": "p",
+          "text": "でもこちらは200<ruby>枚入<rt>まいい</rt></ruby>りなので、<ruby>毎日使<rt>まいにちづか</rt></ruby>う<ruby>方<rt>かた</rt></ruby>にぴったりです。"
+        },
+        {
+          "type": "p",
+          "text": "しかも<ruby>送料無料<rt>そうりょうむりょう</rt></ruby>。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>送料込<rt>そうりょうこ</rt></ruby>みで1,380<ruby>円<rt>えん</rt></ruby>です。"
+        },
+        {
+          "type": "p",
+          "text": "<ruby>家<rt>いえ</rt></ruby>に<ruby>一<rt>ひと</rt></ruby>つ<ruby>置<rt>お</rt></ruby>いておくと、<ruby>朝<rt>あさ</rt></ruby>ごはんにも、お<ruby>弁当作<rt>べんとうづく</rt></ruby>りにも、<ruby>夜<rt>よる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>にも<ruby>使<rt>つか</rt></ruby>えます。 <ruby>海苔<rt>のり</rt></ruby>をよく<ruby>食<rt>た</rt></ruby>べる<ruby>方<rt>かた</rt></ruby>、お<ruby>子<rt>こ</rt></ruby>さまがいるご<ruby>家庭<rt>かてい</rt></ruby>、<ruby>毎日<rt>まいにち</rt></ruby>お<ruby>弁当<rt>べんとう</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る<ruby>方<rt>かた</rt></ruby>におすすめです。"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-14"
+}
