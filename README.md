@@ -37,6 +37,16 @@ start.bat       双击启动本地预览（Windows）
 
 > 详细字段与约束见 [SCHEMA.md](SCHEMA.md)。**不要手写独立 HTML、不要改 CSS 变量**，展示统一走 `site/script.html?id=...`。
 
+## 访问验证（验证码）
+
+进入网站前需要输入 4 位验证码。**修改验证码**：编辑 [site/assets/passcode.js](site/assets/passcode.js) 里那一行引号中的数字，然后 `git push`：
+
+```js
+window.SITE_PASSCODE = "1235";   // 改成你要的 4 位数字
+```
+
+> ⚠️ 这是**前端验证码**，只能拦住随手点进来的普通人。因为仓库公开、数据文件（`content/…`）可被直接访问，懂技术的人查看源码即可绕过——它不能真正保密。若日后需要真正的访问控制，可改用 Cloudflare Access 等服务端方案（可随时找我迁移）。验证通过后，同一浏览器会话内不再重复询问。
+
 ## 在线访问（GitHub Pages）
 
 本仓库已部署到 GitHub Pages。推送到 `main` 后约 1 分钟自动更新。
