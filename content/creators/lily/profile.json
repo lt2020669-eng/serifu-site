@@ -7,12 +7,21 @@
     {
       "title": "海苔直播回放",
       "youtube": "v4F1gFy-hqg"
+    },
+    {
+      "title": "第二场直播回放（示例）",
+      "youtube": "v4F1gFy-hqg"
     }
   ],
   "notes": [
     {
       "file": "nori-personal-script.md",
       "title": "海苔个人剧本",
+      "updatedAt": "2026-07-15"
+    },
+    {
+      "file": "opening-lines.md",
+      "title": "开场白合集（示例）",
       "updatedAt": "2026-07-15"
     }
   ],
