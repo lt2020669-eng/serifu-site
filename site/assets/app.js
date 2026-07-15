@@ -221,10 +221,178 @@ function setupScrollSpy(toc, article){
   heads.forEach(h => io.observe(h));
 }
 
+/* ============ 主播空间 ============ */
+
+// 极简 Markdown → HTML（笔记用）。支持 # ## ###、**加粗**、- 列表、段落。
+function escapeHtml(s){ return (s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;"); }
+function inlineMd(s){ return escapeHtml(s).replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>"); }
+function mdToHtml(md){
+  const lines = (md||"").replace(/\r\n?/g, "\n").split("\n");
+  let html = "", para = [], list = [];
+  const flushP = () => { if (para.length){ html += "<p>" + para.map(inlineMd).join("<br>") + "</p>"; para = []; } };
+  const flushL = () => { if (list.length){ html += "<ul>" + list.map(x => "<li>" + inlineMd(x) + "</li>").join("") + "</ul>"; list = []; } };
+  for (const raw of lines){
+    const line = raw.replace(/\s+$/, "");
+    if (/^###\s+/.test(line)) { flushP(); flushL(); html += "<h4>" + inlineMd(line.replace(/^###\s+/, "")) + "</h4>"; }
+    else if (/^##\s+/.test(line)) { flushP(); flushL(); html += "<h3>" + inlineMd(line.replace(/^##\s+/, "")) + "</h3>"; }
+    else if (/^#\s+/.test(line)) { flushP(); flushL(); html += "<h2>" + inlineMd(line.replace(/^#\s+/, "")) + "</h2>"; }
+    else if (/^[-*]\s+/.test(line)) { flushP(); list.push(line.replace(/^[-*]\s+/, "")); }
+    else if (line.trim() === "") { flushP(); flushL(); }
+    else { flushL(); para.push(line); }
+  }
+  flushP(); flushL();
+  return html;
+}
+
+async function initCreators(){
+  const app = document.querySelector("#app");
+  let data;
+  try{
+    const res = await fetch("../content/creators/creators.json", { cache: "no-cache" });
+    if (!res.ok) throw new Error(res.status);
+    data = await res.json();
+  }catch(e){
+    app.appendChild(el("div", { class: "empty", html: "暂无主播空间数据。" }));
+    return;
+  }
+  const grid = el("div", { class: "grid" });
+  for (const c of (data.creators || [])){
+    grid.appendChild(el("a", { class: "card", href: `creator.html?id=${encodeURIComponent(c.id)}` }, [
+      el("div", { class: "emoji", text: c.emoji || "🎤" }),
+      el("div", { class: "name", text: c.name }),
+      el("div", { class: "meta", text: c.bio || "" }),
+    ]));
+  }
+  if (!(data.creators || []).length) grid.appendChild(el("div", { class: "empty", text: "还没有主播" }));
+  app.appendChild(grid);
+}
+
+async function initCreator(){
+  const app = document.querySelector("#app");
+  const id = qs("id");
+  if (!id){ app.appendChild(el("div", { class: "empty", text: "缺少 id 参数" })); return; }
+  let p;
+  try{
+    const res = await fetch(`../content/creators/${id}/profile.json`, { cache: "no-cache" });
+    if (!res.ok) throw new Error(res.status);
+    p = await res.json();
+  }catch(e){
+    app.appendChild(el("div", { class: "empty", html: "无法读取该主播资料。" }));
+    return;
+  }
+
+  document.title = `${p.name} · 主播空间 · 台本站`;
+  const crumb = document.querySelector("#crumb-name");
+  if (crumb) crumb.textContent = p.name;
+
+  app.appendChild(el("div", { class: "creator-head" }, [
+    el("div", { class: "avatar", text: p.emoji || "🎤" }),
+    el("div", {}, [
+      el("h1", { class: "cname", text: p.name }),
+      el("p", { class: "cbio", text: p.bio || "" }),
+    ]),
+  ]));
+
+  // 三个页签
+  const tabs = [
+    { key: "scripts", label: "📝 台本·剧本" },
+    { key: "notes",   label: "🗒 笔记" },
+    { key: "videos",  label: "🎬 直播视频" },
+  ];
+  const tabBar = el("div", { class: "tabbar" });
+  const panel = el("div", { class: "tabpanel" });
+  app.appendChild(tabBar);
+  app.appendChild(panel);
+
+  function show(key){
+    [...tabBar.children].forEach(b => b.classList.toggle("active", b.dataset.key === key));
+    panel.innerHTML = "";
+    if (key === "scripts") renderCreatorScripts(panel, p);
+    else if (key === "notes") renderCreatorNotes(panel, id, p);
+    else renderCreatorVideos(panel, p);
+  }
+  for (const t of tabs){
+    const b = el("button", { class: "tab", "data-key": t.key, text: t.label });
+    b.onclick = () => show(t.key);
+    tabBar.appendChild(b);
+  }
+  // 默认显示第一个有内容的页签
+  const first = (p.notes && p.notes.length) ? "notes"
+              : (p.videos && p.videos.length) ? "videos"
+              : (p.scripts && p.scripts.length) ? "scripts" : "notes";
+  show(first);
+}
+
+function renderCreatorScripts(panel, p){
+  if (!(p.scripts && p.scripts.length)){
+    panel.appendChild(el("div", { class: "empty", text: "还没有台本 · 剧本。可把整理好的台本放进这里。" }));
+    return;
+  }
+  const list = el("div", { class: "list" });
+  for (const s of p.scripts){
+    list.appendChild(el("div", { class: "item" }, [
+      el("div", { class: "thumb placeholder", text: "📄" }),
+      el("div", { class: "body" }, [ el("div", { class: "t", html: s.title || s.file }) ]),
+    ]));
+  }
+  panel.appendChild(list);
+}
+
+async function renderCreatorNotes(panel, id, p){
+  if (!(p.notes && p.notes.length)){
+    panel.appendChild(el("div", { class: "empty", text: "还没有笔记。" }));
+    return;
+  }
+  for (const n of p.notes){
+    const wrap = el("article", { class: "note-card" });
+    wrap.appendChild(el("div", { class: "note-head" }, [
+      el("h2", { class: "note-title", text: n.title || n.file }),
+      n.updatedAt ? el("span", { class: "note-date", text: "更新 " + n.updatedAt }) : null,
+    ]));
+    const body = el("div", { class: "note-body script" });
+    body.appendChild(el("p", { class: "note-loading", text: "加载中…" }));
+    wrap.appendChild(body);
+    panel.appendChild(wrap);
+    try{
+      const res = await fetch(`../content/creators/${id}/notes/${encodeURIComponent(n.file)}`, { cache: "no-cache" });
+      if (!res.ok) throw new Error(res.status);
+      let md = await res.text();
+      // 去掉与卡片标题重复的开头 H1
+      md = md.replace(/^﻿?\s*#\s+.*(\r?\n)/, "");
+      body.innerHTML = mdToHtml(md);
+    }catch(e){
+      body.innerHTML = "<p class='empty'>笔记加载失败。</p>";
+    }
+  }
+}
+
+function renderCreatorVideos(panel, p){
+  if (!(p.videos && p.videos.length)){
+    panel.appendChild(el("div", { class: "empty", text: "还没有直播视频。" }));
+    return;
+  }
+  for (const v of p.videos){
+    panel.appendChild(el("div", { class: "video-block" }, [
+      v.title ? el("h3", { class: "video-title", text: v.title }) : null,
+      el("div", { class: "video-frame" }, [
+        el("iframe", {
+          src: `https://www.youtube-nocookie.com/embed/${encodeURIComponent(v.youtube)}`,
+          title: v.title || "video",
+          allow: "accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share",
+          allowfullscreen: "",
+          loading: "lazy",
+        }),
+      ]),
+    ]));
+  }
+}
+
 /* ---------- 路由：根据 body[data-page] 初始化 ---------- */
 document.addEventListener("DOMContentLoaded", () => {
   const page = document.body.dataset.page;
   if (page === "home") initHome();
   else if (page === "category") initCategory();
   else if (page === "script") initScript();
+  else if (page === "creators") initCreators();
+  else if (page === "creator") initCreator();
 });

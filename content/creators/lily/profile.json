@@ -1,0 +1,21 @@
+{
+  "id": "lily",
+  "name": "Lily",
+  "emoji": "🎀",
+  "bio": "食品直播主播",
+  "videos": [
+    {
+      "title": "海苔直播回放",
+      "youtube": "v4F1gFy-hqg"
+    }
+  ],
+  "notes": [
+    {
+      "file": "nori-personal-script.md",
+      "title": "海苔个人剧本",
+      "updatedAt": "2026-07-15"
+    }
+  ],
+  "scripts": [],
+  "updatedAt": "2026-07-15"
+}
